@@ -10,7 +10,7 @@ This repository maintains a list of papers that our lab looks into.
 <tr><td colspan="2"><a href="#Huiying">4. Huiying Chen's work</a></td></tr>
    <tr><td colspan="2">&emsp;<a href="#Anomaly-Detection-|-Change-Point-Detection">4.1 Anomaly Detection | Change Point Detection</a></td></tr>
 <tr><td colspan="2"><a href="#Trung">5. Hoang Le's work</a></td></tr>
-<tr><td colspan="2"><a href="#Jiefei">6. Jiefei Liu's work</a></td></tr>
+<tr><td colspan="2"><a href="#Jiefei-Liu's-work">6. Jiefei Liu's work</a></td></tr>
    <tr><td colspan="2">&emsp;<a href="#Change-Point-Detection">6.1 Change Point Detection</a></td></tr>
    <tr><td colspan="2">&emsp;<a href="#Autoregressive">6.2 Autoregressive</a></td></tr>
    <tr><td colspan="2">&emsp;<a href="#PMU">6.3 PMU</a></td></tr>
