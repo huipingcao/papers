@@ -8,6 +8,7 @@ This repository maintains a list of papers that our lab looks into.
 <tr><td colspan="2"><a href="#Qixu">2. Qixu Gong's work</a></td></tr>
 <tr><td colspan="2"><a href="#Erick">3. Erick Draayer's work</a></td></tr>
 <tr><td colspan="2"><a href="#Huiying">4. Huiying Chen's work</a></td></tr>
+   <tr><td colspan="2">&emsp;<a href="#Anomaly-Detection-|-Change-Point-Detection">4.1 Anomaly Detection | Change Point Detection</a></td></tr>
 <tr><td colspan="2"><a href="#Trung">5. Hoang Le's work</a></td></tr>
 <tr><td colspan="2"><a href="#Jiefei">6. Jiefei Liu's work</a></td></tr>
    <tr><td colspan="2">&emsp;<a href="#Change-Point-Detection">6.1 Change Point Detection</a></td></tr>
