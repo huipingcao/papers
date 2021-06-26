@@ -25,6 +25,7 @@ This repository maintains a list of papers that our lab looks into.
 ## [Huiying Chen's work](#content)
 ### [Anomaly Detection | Change Point Detection](#content)
 
+1. **ClaSP - Time Series Segmentation.** 
 1. **Unsupervised real-time anomaly detection for streaming data.** arXiv.CS.AI 2016. [paper](https://www.sciencedirect.com/science/article/pii/S0925231217309864)
 
     *Subutai Ahmad, Scott Purdy.*
@@ -33,7 +34,9 @@ This repository maintains a list of papers that our lab looks into.
 
     *Shohreh Deldari, Daniel V. Smith, Hao Xue, Flora D. Salim.*
     
-
+1. **METRO: A Generic Graph Neural Network Framework for
+Multivariate Time Series Forecasting.** VLDB 2021. 
+    *Yue Cui†, Kai Zheng∗, Dingshan Cui†, Jiandong Xie, Liwei Deng†, Feiteng Huang, Xiaofang Zhou.*
 
 
 ## [Hoang Le's work](#content)
