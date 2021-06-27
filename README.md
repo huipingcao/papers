@@ -42,6 +42,7 @@ Multivariate Time Series Forecasting.** VLDB 2021.
 ## [Hoang Le's work](#content)
 ### [Courses](#content)
 1. **Automated Reasoning., UCLA** [Link](https://www.youtube.com/playlist?list=PLlDG_zCuBub5AyHuxnw8vfgx7Wd-P-4XN)
+2. **CS224W: Machine Learning with Graphs., Stanford** [Link](https://www.youtube.com/watch?v=JAB_plj2rbA&list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn)
 
 ### [Neural-sympolic Learning](#content)
 1. **A Semantic Loss Function for Deep Learning with Symbolic Knowledge** ICLM'2020, [paper](https://arxiv.org/abs/1711.11157)
