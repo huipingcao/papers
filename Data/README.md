@@ -15,7 +15,7 @@ This repository maintains a list of data for our lab
 
 1. **UCR time series dataset**. [Download_link]()
 
-1. **Time series data for change point detection** (Erick used). [Download_link]()
+1. **Time series data for change point detection** (Erick used). [Download_link](https://www.cs.nmsu.edu/kddlab/data/time_series/BOCPD2020.zip)
 
 ## [Review Dataset](#content)
 
