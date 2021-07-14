@@ -25,6 +25,8 @@ This repository maintains a list of data for our lab
 
 1. **The Turing Change Point Dataset - A collection of time series for the evaluation and development of change point detection algorithms**. [Download_link](https://github.com/alan-turing-institute/TCPD/tree/master/datasets)
 
+1. **Matrix Profile VIII: Online Semantic Segmentation**. [Download_link](https://sites.google.com/site/onlinesemanticsegmentation/) 
+
 ## [Review Dataset](#content)
 
 
