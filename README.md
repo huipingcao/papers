@@ -62,8 +62,8 @@ Relation Extraction from Natural Language Texts** Expert Systems With Applicatio
 
 
 ## [Huiying Chen's work](#content)
-### [Anomaly Detection | Change Point Detection](#content)
-
+### [Papers](#content)
+#### [Change Point Detection](#content)
 1. **ClaSP - Time Series Segmentation.** 
 1. **Unsupervised real-time anomaly detection for streaming data.** arXiv.CS.AI 2016. [paper](https://www.sciencedirect.com/science/article/pii/S0925231217309864)
 
@@ -76,6 +76,32 @@ Relation Extraction from Natural Language Texts** Expert Systems With Applicatio
 1. **METRO: A Generic Graph Neural Network Framework for
 Multivariate Time Series Forecasting.** VLDB 2021. 
     *Yue Cui†, Kai Zheng∗, Dingshan Cui†, Jiandong Xie, Liwei Deng†, Feiteng Huang, Xiaofang Zhou.*
+
+
+#### [Trajectory Outlier Detection](#content)
+
+1. **Trajectory Outlier Detection: Algorithms, Taxonomies,
+Evaluation, and Open Challenges.** ACM 2020. [paper](https://kristiania.brage.unit.no/kristiania-xmlui/bitstream/handle/11250/2754894/Belhadi.pdf?sequence=1)
+    *Asma Belhadi , Youcef Djenouri , Jerry Chun-Wei Lin , Alberto Cano.*
+
+1. **An overview on trajectory outlier detection.** Springer 2018. [paper](https://www.researchgate.net/publication/322898173_An_overview_on_trajectory_outlier_detection)
+    *Fanrong Meng.*
+
+1. **Trajectory Outlier Detection: A Partition-and-Detect Framework.** IEEE 2008. [paper](http://hanj.cs.illinois.edu/pdf/icde08_jaegil_lee.pdf)
+    *Jae-Gil Lee, Jiawei Han, Xiaolei Li.*
+
+
+### [Github](#content)
+
+1. **Anomaly Detection Learning Resources.**  [link](https://github.com/yzhao062/anomaly-detection-resources)
+
+1. **awesome-TS-anomaly-detection .**  [link](https://github.com/rob-med/awesome-TS-anomaly-detection)
+
+
+### [Books](#content)
+
+1. **Mathematical Foundations for Data Analysis.**  [link](https://mathfordata.github.io/)
+    *Jeff M. Phillips*
 
 
 ## [Jiefei Liu's work](#content)
