@@ -91,6 +91,12 @@ Evaluation, and Open Challenges.** ACM 2020. [paper](https://kristiania.brage.un
     *Jae-Gil Lee, Jiawei Han, Xiaolei Li.*
 
 
+### [Notebook](#content)
+
+1. **notebook_Trajectory Outlier Detection.**  [link](https://docs.google.com/document/d/1DlQEsF-5l1OMhmflhH29dJ3wL3DEzEWVExxA56admVI/edit?usp=sharing) For USDA Animal Science Project
+
+
+
 ### [Github](#content)
 
 1. **Anomaly Detection Learning Resources.**  [link](https://github.com/yzhao062/anomaly-detection-resources)
