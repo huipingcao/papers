@@ -20,7 +20,7 @@ This repository maintains a list of data for our lab
 
 ## [Change Point Detection](#content)
 
-1. **Numenta Anomaly Benchmark (NAB)**. [Download_link](https://numenta.com/machine-intelligence-technology/numenta-anomaly-benchmark/)
+1. **Numenta Anomaly Benchmark (NAB)**. [Download_link](https://github.com/numenta/NAB/tree/master/data)
 
 1. **Matrix Profile VIII: Online Semantic Segmentation**. [Download_link](https://sites.google.com/site/onlinesemanticsegmentation/) 
 
