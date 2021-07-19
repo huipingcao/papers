@@ -16,7 +16,7 @@ This repository maintains a list of data for our lab
 
 1. **UCR time series dataset**.
 
-1. **Time series data for change point detection** (Erick used) (The Turing Change Point Dataset - A collection of time series for the evaluation and development of change point detection algorithms). Link to Git Hub and example of load the dataset. [link](https://github.com/alan-turing-institute/TCPD)
+1. **Time series data for change point detection** (Erick used) (The Turing Change Point Dataset - A collection of time series for the evaluation and development of change point detection algorithms). Link to Git Hub and example of load the dataset. [Link](https://github.com/alan-turing-institute/TCPD)
 
 ## [Change Point Detection](#content)
 
