@@ -14,7 +14,7 @@ This repository maintains a list of data for our lab
 ## [Time Series](#content)
 1. **Multivariate time series (MTS) data** (Yifan used). [Download_link](https://www.cs.nmsu.edu/kddlab/data/time_series/mts_data/)
 
-1. **UCR time series dataset**.()
+1. **UCR time series dataset**.
 
 1. **Time series data for change point detection** (Erick used). [Download_link](https://www.cs.nmsu.edu/kddlab/data/time_series/BOCPD2020.zip)
 
