@@ -19,7 +19,6 @@ This repository maintains a list of data for our lab
 1. **Time series data for change point detection** (Erick used). [Download_link](https://www.cs.nmsu.edu/kddlab/data/time_series/BOCPD2020.zip)
 
 ## [Change Point Detection](#content)
-1. **ClaSP - Time Series Segmentation**. [Download_link](https://sites.google.com/view/ts-clasp/)
 
 1. **Numenta Anomaly Benchmark (NAB)**. [Download_link](https://numenta.com/machine-intelligence-technology/numenta-anomaly-benchmark/)
 
