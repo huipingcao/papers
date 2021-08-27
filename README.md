@@ -11,6 +11,7 @@ This repository maintains a list of papers that our lab looks into.
    <tr><td colspan="2">&emsp;<a href="#Change-Point-Detection">3.1 Change Point Detection</a></td></tr>
    <tr><td colspan="2">&emsp;<a href="#Autoregressive">3.2 Autoregressive</a></td></tr>
    <tr><td colspan="2">&emsp;<a href="#PMU">3.3 PMU</a></td></tr>
+<tr><td colspan="2"><a href="#Physics-Guided-RNNs">4. Physics Guided RNNs</a></td></tr>
 </table>
 
 
@@ -145,7 +146,8 @@ Evaluation, and Open Challenges.** ACM 2020. [paper](https://kristiania.brage.un
    *Phani Harsha Gadde; Milan Biswal; Sukumar Brahma; Huiping Cao*
 
 
+## [Physics Guided RNNs](#content)
+1. **Physics-Guided Machine Learning for Scientific Discovery: An Application in Simulating Lake Temperature Profiles.** Machine Learning (cs.LG). [paper](https://arxiv.org/abs/2001.11086)
 
-
-
+1. **Physics Guided RNNs for Modeling Dynamical Systems: A Case Study in Simulating Lake Temperature Profiles.** Computational Physics (physics.comp-ph). [paper](https://arxiv.org/abs/1810.13075)
 
