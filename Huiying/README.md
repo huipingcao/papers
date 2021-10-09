@@ -1,5 +1,5 @@
 # Huiying's Work (PhD thesis)
-This repository maintains a list of papers that Huiying looks into. 
+This repository maintains a list of materials that Huiying looks into. 
 
 ## [Content](#content)
 
