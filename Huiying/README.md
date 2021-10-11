@@ -18,7 +18,6 @@ This repository maintains a list of materials that Huiying looks into.
 
 ## [Papers](#content)
 #### [Change Point Detection](#content)
-1. **ClaSP - Time Series Segmentation.** 
 1. **Unsupervised real-time anomaly detection for streaming data.** arXiv.CS.AI 2016. [paper](https://www.sciencedirect.com/science/article/pii/S0925231217309864)
 
     *Subutai Ahmad, Scott Purdy.*
@@ -58,8 +57,6 @@ Evaluation, and Open Challenges.** ACM 2020. [paper](https://kristiania.brage.un
 
 #### [Lightweight Model](#content)
 
-1. **AutoCTS: Automated Correlated Time Series Forecasting.** . [paper]()
-    *Xinle Wu, Dalin Zhang, Chenjuan Gu, Chaoyang He, Bin Yang, Christian S. Jensen.*
 
 
 ### [Notebook](#content)
