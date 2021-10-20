@@ -19,6 +19,14 @@ This repository maintains a list of materials that Huiying looks into.
 <tr><td colspan="2"><a href="#Notebooks">3. Notebooks </a></td></tr>
 <tr><td colspan="2"><a href="#Github">4. Github </a></td></tr>
 <tr><td colspan="2"><a href="#Books">5. Books </a></td></tr>
+<tr><td colspan="2"><a href="#Foundations">6. Foundations </a></td></tr>
+<tr><td colspan="2">&emsp;<a href="#Basics">6.1 Basics</a></td></tr>
+<tr><td colspan="2">&emsp;<a href="#CNNs">6.2 CNNs</a></td></tr>
+<tr><td colspan="2">&emsp;<a href="#RNNs">6.3 RNNs</a></td></tr>
+<tr><td colspan="2">&emsp;<a href="#Embeddings">6.4 Embeddings</a></td></tr>
+<tr><td colspan="2">&emsp;<a href="#Transformers">6.5 Transformers</a></td></tr>
+<tr><td colspan="2">&emsp;<a href="#Attentions">6.6 Attentions</a></td></tr>
+
 </table>
 
 ## [Papers](#content)
@@ -142,7 +150,7 @@ Evaluation, and Open Challenges.** ACM 2020. [paper](https://kristiania.brage.un
 #### [Edge Computing](#content)
 
 1. **Edge Machine Learning for AI-Enabled IoT Devices: A Review.** MDPI 2020. [paper](https://www.mdpi.com/1424-8220/20/9/2533)
-    *Massimo Merenda,*ORCID,Carlo Porcaro, ORCID, Demetrio Iero.*
+    *Massimo Merenda,Carlo Porcaro,  Demetrio Iero.*
 
 1. **Deep Learning on Mobile Devices - A Review.** arVix 2019. [paper](https://arxiv.org/abs/1904.09274)
     *Yunbin Deng.*
@@ -192,3 +200,12 @@ Evaluation, and Open Challenges.** ACM 2020. [paper](https://kristiania.brage.un
 1. **Mathematical Foundations for Data Analysis.**  [link](https://mathfordata.github.io/)
     *Jeff M. Phillips*
 
+
+### [Foundations](#content)
+
+
+#### [Deep Learning](#content)
+
+**🕐🕹 YouTube - Complete Deep Learning.**  [link](https://www.youtube.com/watch?v=mH9GBJ6og5A&list=PLZoTAELRMXVPGU70ZGsckrMdr0FteeRUi&index=7)  
+
+1. **Basics.** [note](https://docs.google.com/document/d/1N_pN_1e2B6Ytjx7Xl_f6P0G8HnbyKovUPRdZ3V4U4wo/edit?usp=sharing) [code](https://colab.research.google.com/drive/1SVbHVL7SuUonq66Y9d7SW60r5O6qvjCI?usp=sharing)
