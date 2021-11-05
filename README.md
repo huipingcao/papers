@@ -4,17 +4,13 @@ This repository maintains a list of papers that our lab looks into.
 ## [Content](#content)
 
 <table>
-<tr><td colspan="2">1. Hoang Le's work are here [Github-repo](https://github.com/lehgtrung/paper-reading-list)</td></tr>
+<tr><td colspan="2">1. Hoang Le's work are <a href="https://github.com/lehgtrung/paper-reading-list">here</a> </td></tr>
 <tr><td colspan="2"><a href="#Jiefei-Liu's-work">2. Jiefei Liu's work</a></td></tr>
    <tr><td colspan="2">&emsp;<a href="#Change-Point-Detection">2.1 Change Point Detection</a></td></tr>
    <tr><td colspan="2">&emsp;<a href="#Autoregressive">2.2 Autoregressive</a></td></tr>
    <tr><td colspan="2">&emsp;<a href="#PMU">2.3 PMU</a></td></tr>
 <tr><td colspan="2"><a href="#Physics-guided-NN-models">3. Physics guided NN models</a></td></tr>
 </table>
-
-
-## [Hoang Le's work](#content)
-My books, courses, papers, talks are here [Github-repo](https://github.com/lehgtrung/paper-reading-list)
 
 
 ## [Jiefei Liu's work](#content)
