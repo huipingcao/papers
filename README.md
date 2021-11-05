@@ -5,6 +5,7 @@ This repository maintains a list of papers that our lab looks into.
 
 <table>
 <tr><td colspan="2">1. Hoang Le's work are <a href="https://github.com/lehgtrung/paper-reading-list">here</a> </td></tr>
+<tr><td colspan="2">2. Huiying's work are <a href="https://github.com/huipingcao/papers/tree/main/Huiying">here</a> </td></tr>
 <tr><td colspan="2"><a href="#Jiefei-Liu's-work">2. Jiefei Liu's work</a></td></tr>
    <tr><td colspan="2">&emsp;<a href="#Change-Point-Detection">2.1 Change Point Detection</a></td></tr>
    <tr><td colspan="2">&emsp;<a href="#Autoregressive">2.2 Autoregressive</a></td></tr>
