@@ -68,11 +68,67 @@ This repository maintains a list of materials that Jiefei looks into.
 
 ### [Smart Grid](#content)
 
+1. **Regression-based Online Anomaly Detection for Smart Grid Data.** Databases, 2016. [paper](https://arxiv.org/abs/1606.05781)
+
+   *Xiufeng Liu, Per Sieverts Nielsen*
+
 ### [Anomaly detection](#content)
+
+1. **Regression-based Online Anomaly Detection for Smart Grid Data.** Databases, 2016. [paper](https://arxiv.org/abs/1606.05781)
+
+   *Xiufeng Liu, Per Sieverts Nielsen*
+
+1. **A Survey on Anomalies Detection Techniques and Measurement Methods.** IEEE, 2018. [paper](https://ieeexplore.ieee.org/abstract/document/8631436) 
+
+   *Gopinath Muruti; Fiza Abdul Rahim; Zul-Azri bin Ibrahim*
+
+1. **Representation Learning with Contrastive Predictive Coding.** Machine Learning, 2019. [paper](https://arxiv.org/abs/1807.03748)
+ 
+   *Aaron van den Oord, Yazhe Li, Oriol Vinyals*
+
+1. **Time Series Change Point Detection with Self-Supervised Contrastive Predictive Coding.** Machine Learning, 2021. [paper](https://arxiv.org/abs/2011.14097)
+
+   *Shohreh Deldari, Daniel V. Smith, Hao Xue, Flora D. Salim*
 
 ### [Long Short Term Memory](#content)
 
+1. **LONG SHORT-TERM MEMORY.** MIT Press, 1997. [paper](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.676.4320&rep=rep1&type=pdf)
+
+   *Sepp Hochreiter; Jürgen Schmidhuber*
+
+
 ### [Intelligent Alarm](#content)
+1. **Intelligent Alarm Processing in Power Systems.** IEEE, 1992. [link](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=137221)
+
+   *DANIEL S. KIRSCHEN, BRUCE F. WOLLENBERG*
+   
+1. **Artificial neural networks in power systems: Part I General introduction to neuralcomputing.** Power Engineering Journal, 1997. [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=600550)
+
+   *R Aggarwal, Y Song*
+   
+1. **Artificial neural networks in power systems Part 2 Types of artificial neural networks.** Power Engineering Journal, 1998. [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=664047)
+
+   *R Aggarwal, Y Song*
+   
+1. **Artificial neural networks in power systems: Part 3 Examples of applications in power systems.** Power Engineering Journal, 1998. [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=745267)
+
+   *R Aggarwal, Y Song*
+
+1. **AN EXPERT SYSTEM WITH TEMPORAL REASONING FOR ALARM PROCESSING IN POWER SYSTEM CONTROL CENTERS.** IEEE Transactions on power systems, 1993. [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=260863)
+
+   *ZA Vale, AM e Moura*
+
+1. **An Analytic Model for Fault Diagnosis in Power Systems Utilizing Redundancy and Temporal Information of Alarm Messages.** IEEE Transactions on Power Systems, 2016. [paper](https://ieeexplore.ieee.org/document/7393619)
+
+   *Yan Zhang; Chi Yung Chung; Fushuan Wen; Jinyuan Zhong*
+   
+1. **Alarm Processing in Electrical Power Systems Through a Neuro-Fuzzy Approach.** IEEE, 2004. [paper](https://ieeexplore.ieee.org/abstract/document/1278406)
+
+   *J.C.S. de Souza; E.M. Mez**a; M.T. Schilling; M.B. Do Coutto Filho*
+   
+1. **Adaptive Multiple Fault Detection and Alarm Processing for Loop System With Probabilistic Network.** IEEE Transactions on Power Delivery, 2004. [paper](https://ieeexplore.ieee.org/abstract/document/1278406)
+
+   *J.C.S. de Souza; E.M. Meza; M.T. Schilling; M.B. Do Coutto Filho*
 
 ## [Courses](#content)
 ### [Online Courses](#content)
@@ -110,6 +166,6 @@ This repository maintains a list of materials that Jiefei looks into.
 
 ## [Foundations](#content)
 ### [Basics](#content)
-1. **Pytorch** [YouTube](https://www.youtube.com/watch?v=c36lUUr864M&t=9613s)[code](https://drive.google.com/drive/folders/1zn-OQzfi0pNUzfpjhJxnNqGZE6S2N8w-?usp=sharing)
+1. **Pytorch** [YouTube](https://www.youtube.com/watch?v=c36lUUr864M&t=9613s) [code](https://drive.google.com/drive/folders/1zn-OQzfi0pNUzfpjhJxnNqGZE6S2N8w-?usp=sharing)
 
 
