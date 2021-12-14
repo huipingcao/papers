@@ -183,10 +183,10 @@ Evaluation, and Open Challenges.** ACM 2020. [paper](https://kristiania.brage.un
     *Thang Luong, Hieu Pham, Christopher D. Manning.*
 
 
-### [Notebook](#content)
+### [Notebooks](#content)
 
 1. **notebook_Trajectory Outlier Detection.**  [link](https://docs.google.com/document/d/1DlQEsF-5l1OMhmflhH29dJ3wL3DEzEWVExxA56admVI/edit?usp=sharing) For USDA Animal Science Project
-
+1. **Literature Review - Animal Movement with ML.**  [link](https://docs.google.com/document/d/17o5uYJmBdvni6CwfIFJPWchNGcRxGleY18i2HGaXu1c/edit?usp=sharing) 
 
 ### [Github](#content)
 
