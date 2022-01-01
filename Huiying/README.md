@@ -5,27 +5,23 @@ This repository maintains a list of materials that Huiying looks into.
 
 <table>
 <tr><td colspan="2"><a href="#Papers">1. Papers </a></td></tr>
- <tr><td colspan="2">&emsp;<a href="#Change-Point-Detection">1.1 Change Point Detection</a></td></tr>
-<tr><td colspan="2">&emsp;<a href="#Anomaly-Detection">1.2 Anomaly Detection</a></td></tr>
-<tr><td colspan="2">&emsp;<a href="#Data-Imputation">1.3 Data Imputation</a></td></tr>
-<tr><td colspan="2">&emsp;<a href="#Un/Self-supervised-Learning">1.4 Un/Self-supervised Learning</a></td></tr>
-<tr><td colspan="2">&emsp;<a href="#Knowledge-Distillation">1.5 Knowledge Distillation</a></td></tr>
-<tr><td colspan="2">&emsp;<a href="#Neural-Architecture-Search">1.6 Neural Architecture Search</a></td></tr>
-<tr><td colspan="2">&emsp;<a href="#Edge-Computing">1.7 Edge Computing</a></td></tr>
-<tr><td colspan="2">&emsp;<a href="#Transformer">1.8 Transformer</a></td></tr>
-<tr><td colspan="2">&emsp;<a href="#Attention">1.9 Attention</a></td></tr>
+   <tr><td colspan="2">&emsp;<a href="#Change-Point-Detection">1.1 Change Point Detection</a></td></tr>
+   <tr><td colspan="2">&emsp;<a href="#Anomaly-Detection">1.2 Anomaly Detection</a></td></tr>
+   <tr><td colspan="2">&emsp;<a href="#Data-Imputation">1.3 Data Imputation</a></td></tr>
+   <tr><td colspan="2">&emsp;<a href="#Un/Self-supervised-Learning">1.4 Un/Self-supervised Learning</a></td></tr>
+   <tr><td colspan="2">&emsp;<a href="#Knowledge-Distillation">1.5 Knowledge Distillation</a></td></tr>
+   <tr><td colspan="2">&emsp;<a href="#Neural-Architecture-Search">1.6 Neural Architecture Search</a></td></tr>
+   <tr><td colspan="2">&emsp;<a href="#Edge-Computing">1.7 Edge Computing</a></td></tr>
+   <tr><td colspan="2">&emsp;<a href="#Transformer">1.8 Transformer</a></td></tr>
+   <tr><td colspan="2">&emsp;<a href="#Attention">1.9 Attention</a></td></tr>
 
 <tr><td colspan="2"><a href="#Courses">2. Courses </a></td></tr>
 <tr><td colspan="2"><a href="#Notebooks">3. Notebooks </a></td></tr>
 <tr><td colspan="2"><a href="#Github">4. Github </a></td></tr>
 <tr><td colspan="2"><a href="#Books">5. Books </a></td></tr>
 <tr><td colspan="2"><a href="#Foundations">6. Foundations </a></td></tr>
-<tr><td colspan="2">&emsp;<a href="#Basics">6.1 Basics</a></td></tr>
-<tr><td colspan="2">&emsp;<a href="#CNNs">6.2 CNNs</a></td></tr>
-<tr><td colspan="2">&emsp;<a href="#RNNs">6.3 RNNs</a></td></tr>
-<tr><td colspan="2">&emsp;<a href="#Embeddings">6.4 Embeddings</a></td></tr>
-<tr><td colspan="2">&emsp;<a href="#Transformers">6.5 Transformers</a></td></tr>
-<tr><td colspan="2">&emsp;<a href="#Attentions">6.6 Attentions</a></td></tr>
+    <tr><td colspan="2">&emsp;<a href="#Deep-Learning">6.1 Deep Learning</a></td></tr>
+ <tr><td colspan="2"><a href="#Tools">7. Tools </a></td></tr>
 
 </table>
 
@@ -204,9 +200,33 @@ Evaluation, and Open Challenges.** ACM 2020. [paper](https://kristiania.brage.un
 
 ### [Foundations](#content)
 
-
 #### [Deep Learning](#content)
 
 **🕐🕹 YouTube - Complete Deep Learning.**  [link](https://www.youtube.com/watch?v=mH9GBJ6og5A&list=PLZoTAELRMXVPGU70ZGsckrMdr0FteeRUi&index=7)  
 
 1. **Basics.** [note](https://docs.google.com/document/d/1N_pN_1e2B6Ytjx7Xl_f6P0G8HnbyKovUPRdZ3V4U4wo/edit?usp=sharing) [code](https://colab.research.google.com/drive/1SVbHVL7SuUonq66Y9d7SW60r5O6qvjCI?usp=sharing)
+
+
+### [Tools](#content)
+
+1. **Paper With Code - find papers with open source code.**  [link](https://paperswithcode.com/)
+
+1. **Connected Papers - Explore connected papers in a visual graph.**  [link](https://www.connectedpapers.com/)
+
+1. **Research Rabbit - Reimagine Research. We’re rethinking everything: literature search, alerts, and more**  [link](https://www.researchrabbit.ai/)
+
+1. **DeepL Translator.**  [link](https://www.deepl.com/translator)
+
+1. **Paper Digest - summarizes academic articles.**  [link](https://www.paper-digest.com/)
+
+1. **Academic Phrasebank - academic writing hints.**  [link](https://www.phrasebank.manchester.ac.uk/)
+
+1. **Pro Writing Aid - grammar and style checking.**  [link](https://prowritingaid.com/)
+
+1. **Quillbot - rewrite and enhance any sentence.**  [link](https://quillbot.com/)
+
+
+
+
+
+
