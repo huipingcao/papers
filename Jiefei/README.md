@@ -167,5 +167,10 @@ This repository maintains a list of materials that Jiefei looks into.
 ## [Foundations](#content)
 ### [Basics](#content)
 1. **Pytorch** [YouTube](https://www.youtube.com/watch?v=c36lUUr864M&t=9613s) [code](https://drive.google.com/drive/folders/1zn-OQzfi0pNUzfpjhJxnNqGZE6S2N8w-?usp=sharing)
+2. **backpropagation algorithms** [YouTube](https://www.youtube.com/watch?v=3Kb0QS6z7WA) [code](https://colab.research.google.com/drive/17mjyoPbpq-GZVD-2YyV68_dLnGLBmwlh)
+3. **Convolutional Neural Networks** [YouTube](https://www.youtube.com/watch?v=pDdP0TFzsoQ) [code](https://colab.research.google.com/drive/1oTnLUzLsGz_dJ2nzyag50GEpC6RrfULB)
+4. **Recurrent Neural Networks, LSTM** [YouTube](https://www.youtube.com/watch?v=0_PgWWmauHk&t=519s) [YouTube](https://www.youtube.com/watch?v=WEV61GmmPrk&t=1275s) [code](https://colab.research.google.com/drive/1uFx00tYqlnzHg-bZAU6bh-KvYmHVNbiy)
+5. **Encoder-decoder** [YouTube](https://www.youtube.com/watch?v=zp8clK9yCro) [code](https://colab.research.google.com/drive/1AIbwI0PIzjvYaZyX9daqhNHq5o0hbILu)
+6. **Graph neural network** [YouTube](https://www.youtube.com/watch?v=-UjytpbqX4A&t=2444s) [code](https://colab.research.google.com/drive/1DIQm9rOx2mT1bZETEeVUThxcrP1RKqAn)
 
 
