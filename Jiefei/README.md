@@ -13,6 +13,7 @@ This repository maintains a list of materials that Jiefei looks into.
 <tr><td colspan="2">&emsp;<a href="#Anomaly-detection">1.5 Anomaly detection</a></td></tr> 
 <tr><td colspan="2">&emsp;<a href="#Long-Short-Term-Memory">1.6 Long Short Term Memory</a></td></tr>
 <tr><td colspan="2">&emsp;<a href="#Intelligent-Alarm">1.6 Intelligent Alarm</a></td></tr>
+ <tr><td colspan="2">&emsp;<a href="#Attention">1.7 Attention</a></td></tr>
 
 <tr><td colspan="2"><a href="#Courses">2. Courses </a></td></tr>
   <tr><td colspan="2">&emsp;<a href="#Online-Courses">2.1 Online Courses</a></td></tr>
@@ -129,6 +130,11 @@ This repository maintains a list of materials that Jiefei looks into.
 1. **Adaptive Multiple Fault Detection and Alarm Processing for Loop System With Probabilistic Network.** IEEE Transactions on Power Delivery, 2004. [paper](https://ieeexplore.ieee.org/abstract/document/1278406)
 
    *J.C.S. de Souza; E.M. Meza; M.T. Schilling; M.B. Do Coutto Filho*
+   
+### [Attention](#content)
+1. **Attention Is All You Need.** NIPS 2017. [paper](https://arxiv.org/abs/1706.03762)
+
+   *Ashish Vaswani, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones, Aidan N. Gomez, Lukasz Kaiser, Illia Polosukhin*
 
 ## [Courses](#content)
 ### [Online Courses](#content)
@@ -167,10 +173,17 @@ This repository maintains a list of materials that Jiefei looks into.
 ## [Foundations](#content)
 ### [Basics](#content)
 1. **Pytorch** [YouTube](https://www.youtube.com/watch?v=c36lUUr864M&t=9613s) [code](https://drive.google.com/drive/folders/1zn-OQzfi0pNUzfpjhJxnNqGZE6S2N8w-?usp=sharing)
-2. **backpropagation algorithms** [YouTube](https://www.youtube.com/watch?v=3Kb0QS6z7WA) [code](https://colab.research.google.com/drive/17mjyoPbpq-GZVD-2YyV68_dLnGLBmwlh)
-3. **Convolutional Neural Networks** [YouTube](https://www.youtube.com/watch?v=pDdP0TFzsoQ) [code](https://colab.research.google.com/drive/1oTnLUzLsGz_dJ2nzyag50GEpC6RrfULB)
-4. **Recurrent Neural Networks, LSTM** [YouTube](https://www.youtube.com/watch?v=0_PgWWmauHk&t=519s) [YouTube](https://www.youtube.com/watch?v=WEV61GmmPrk&t=1275s) [code](https://colab.research.google.com/drive/1uFx00tYqlnzHg-bZAU6bh-KvYmHVNbiy)
-5. **Encoder-decoder** [YouTube](https://www.youtube.com/watch?v=zp8clK9yCro) [code](https://colab.research.google.com/drive/1AIbwI0PIzjvYaZyX9daqhNHq5o0hbILu)
-6. **Graph neural network** [YouTube](https://www.youtube.com/watch?v=-UjytpbqX4A&t=2444s) [code](https://colab.research.google.com/drive/1DIQm9rOx2mT1bZETEeVUThxcrP1RKqAn)
+
+1. **backpropagation algorithms** [YouTube](https://www.youtube.com/watch?v=3Kb0QS6z7WA) [code](https://colab.research.google.com/drive/17mjyoPbpq-GZVD-2YyV68_dLnGLBmwlh)
+
+1. **Convolutional Neural Networks** [YouTube](https://www.youtube.com/watch?v=pDdP0TFzsoQ) [code](https://colab.research.google.com/drive/1oTnLUzLsGz_dJ2nzyag50GEpC6RrfULB)
+
+1. **Recurrent Neural Networks, LSTM** [YouTube](https://www.youtube.com/watch?v=0_PgWWmauHk&t=519s) [YouTube](https://www.youtube.com/watch?v=WEV61GmmPrk&t=1275s) [code](https://colab.research.google.com/drive/1uFx00tYqlnzHg-bZAU6bh-KvYmHVNbiy)
+
+1. **Encoder-decoder** [YouTube](https://www.youtube.com/watch?v=zp8clK9yCro) [code](https://colab.research.google.com/drive/1AIbwI0PIzjvYaZyX9daqhNHq5o0hbILu)
+
+1. **Graph neural network** [YouTube](https://www.youtube.com/watch?v=-UjytpbqX4A&t=2444s) [code](https://colab.research.google.com/drive/1DIQm9rOx2mT1bZETEeVUThxcrP1RKqAn)
+
+1. **Attention model** [YouTube](https://www.youtube.com/watch?v=sQUqQddQtB4) 
 
 
