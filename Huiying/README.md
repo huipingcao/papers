@@ -202,11 +202,17 @@ Evaluation, and Open Challenges.** ACM 2020. [paper](https://kristiania.brage.un
 
 #### [Deep Learning](#content)
 
-**🕐🕹 YouTube - Complete Deep Learning.**  [link](https://www.youtube.com/watch?v=mH9GBJ6og5A&list=PLZoTAELRMXVPGU70ZGsckrMdr0FteeRUi&index=7)  
+**🕹 YouTube - Complete Deep Learning.**  [link](https://www.youtube.com/watch?v=mH9GBJ6og5A&list=PLZoTAELRMXVPGU70ZGsckrMdr0FteeRUi&index=7)  
 
-1. **Basics.** [note](https://docs.google.com/document/d/1N_pN_1e2B6Ytjx7Xl_f6P0G8HnbyKovUPRdZ3V4U4wo/edit?usp=sharing) [code](https://colab.research.google.com/drive/1SVbHVL7SuUonq66Y9d7SW60r5O6qvjCI?usp=sharing)
+1. **Basics - Actication Functions, BackPropagation, SGD & GD, Optimizers, Loss Functions, ANN, CNN, etc..** [note](https://docs.google.com/document/d/1N_pN_1e2B6Ytjx7Xl_f6P0G8HnbyKovUPRdZ3V4U4wo/edit?usp=sharing) [code](https://colab.research.google.com/drive/1SVbHVL7SuUonq66Y9d7SW60r5O6qvjCI?usp=sharing)
 
-1. **LSTM.**  [blog](https://colah.github.io/posts/2015-08-Understanding-LSTMs/)
+1. **NLP.**  
+
+   1. **Word Embedding.**  [video](https://www.youtube.com/watch?v=pO_6Jk0QtKw&list=PLZoTAELRMXVPGU70ZGsckrMdr0FteeRUi&index=42)
+
+1. **Time Series.**  
+   1. **LSTM.**  [blog](https://colah.github.io/posts/2015-08-Understanding-LSTMs/)
+   1. **Self-Supervised Representation Learning.**  [blog](https://lilianweng.github.io/lil-log/2019/11/10/self-supervised-learning.html)
 
 
 ### [Tools](#content)
