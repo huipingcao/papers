@@ -206,10 +206,12 @@ Evaluation, and Open Challenges.** ACM 2020. [paper](https://kristiania.brage.un
 
 1. **Basics.** [note](https://docs.google.com/document/d/1N_pN_1e2B6Ytjx7Xl_f6P0G8HnbyKovUPRdZ3V4U4wo/edit?usp=sharing) [code](https://colab.research.google.com/drive/1SVbHVL7SuUonq66Y9d7SW60r5O6qvjCI?usp=sharing)
 
+1. **LSTM.**  [blog](https://colah.github.io/posts/2015-08-Understanding-LSTMs/)
+
 
 ### [Tools](#content)
 
-1. **Paper With Code - find papers with open source code.**  [link](https://paperswithcode.com/)
+1. **Paper With Code - Find papers with open source code.**  [link](https://paperswithcode.com/)
 
 1. **Connected Papers - Explore connected papers in a visual graph.**  [link](https://www.connectedpapers.com/)
 
@@ -217,13 +219,16 @@ Evaluation, and Open Challenges.** ACM 2020. [paper](https://kristiania.brage.un
 
 1. **DeepL Translator.**  [link](https://www.deepl.com/translator)
 
-1. **Paper Digest - summarizes academic articles.**  [link](https://www.paper-digest.com/)
+1. **Paper Digest - Summarizes academic articles.**  [link](https://www.paper-digest.com/)
 
-1. **Academic Phrasebank - academic writing hints.**  [link](https://www.phrasebank.manchester.ac.uk/)
+1. **Academic Phrasebank - Academic writing hints.**  [link](https://www.phrasebank.manchester.ac.uk/)
 
-1. **Pro Writing Aid - grammar and style checking.**  [link](https://prowritingaid.com/)
+1. **Pro Writing Aid - Grammar and style checking.**  [link](https://prowritingaid.com/)
 
-1. **Quillbot - rewrite and enhance any sentence.**  [link](https://quillbot.com/)
+1. **Quillbot - Rewrite and enhance any sentence.**  [link](https://quillbot.com/)
+
+1. **ML Visuals - Out-of-box ML figures.**  [link](https://github.com/dair-ai/ml-visuals)
+
 
 
 
