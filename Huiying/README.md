@@ -21,7 +21,8 @@ This repository maintains a list of materials that Huiying looks into.
 <tr><td colspan="2"><a href="#Books">5. Books </a></td></tr>
 <tr><td colspan="2"><a href="#Foundations">6. Foundations </a></td></tr>
     <tr><td colspan="2">&emsp;<a href="#Deep-Learning">6.1 Deep Learning</a></td></tr>
- <tr><td colspan="2"><a href="#Tools">7. Tools </a></td></tr>
+<tr><td colspan="2"><a href="#Tools">7. Tools </a></td></tr>
+<tr><td colspan="2"><a href="#Resources">8. Resources </a></td></tr>
 
 </table>
 
@@ -244,7 +245,9 @@ Evaluation, and Open Challenges.** ACM 2020. [paper](https://kristiania.brage.un
 1. **Netron - Viewer for neural network, deep learning, and machine learning models.**  [link](https://www.electronjs.org/apps/netron)
 
 
+### [Resources](#content)
 
+1. **Tiingo - A Reliable, Enterprise-Grade Financial Markets API.**  [link](https://api.tiingo.com/)
 
 
 
