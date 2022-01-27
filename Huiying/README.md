@@ -213,6 +213,8 @@ Evaluation, and Open Challenges.** ACM 2020. [paper](https://kristiania.brage.un
    1. **Word Embedding.**  [video](https://www.youtube.com/watch?v=pO_6Jk0QtKw&list=PLZoTAELRMXVPGU70ZGsckrMdr0FteeRUi&index=42) [code](https://colab.research.google.com/drive/1iWDevNf3MsGmx4jyP9OoydG00Nh-UblS?usp=sharing) [blog](https://machinelearningmastery.com/use-word-embedding-layers-deep-learning-keras/) 
    1. **Faker News Classifier Using LSTM.**  [video](https://www.youtube.com/watch?v=MXPh_lMRwAI&list=PLZoTAELRMXVPGU70ZGsckrMdr0FteeRUi&index=45) [code](https://colab.research.google.com/drive/1uosj0pCty_g5z-FNbcEJEKG-Ig0J5Wgx?usp=sharing) 
    1. **Stock Price Prediction And Forecasting Using Stacked LSTM.**  [video](https://www.youtube.com/watch?v=H6du_pfuznE&list=PLZoTAELRMXVPGU70ZGsckrMdr0FteeRUi&index=46) [blog](https://machinelearningmastery.com/time-series-prediction-with-deep-learning-in-python-with-keras/)  [code](https://colab.research.google.com/drive/1DpxtBGcosxzx8JzdJW__4_6UHe7vPGRZ?usp=sharing) 
+   1. **Fake News Classifier Using Bidirectional LSTM RNN.**  [video](https://www.youtube.com/watch?v=RpTmnRGJvRQ&list=PLZoTAELRMXVPGU70ZGsckrMdr0FteeRUi&index=48) [code](https://colab.research.google.com/drive/1Eyjawqz_WbuyUDcBWM0uynnccVqeryLc?usp=sharing) 
+   1. **Deep Learning End To End Project - Classifying imageNet by VGG19 model transfer learning + Flask for image uploading.**  [video](https://www.youtube.com/watch?v=UeydWKkjwwE&list=PLZoTAELRMXVPGU70ZGsckrMdr0FteeRUi&index=50) [code]() 
 
 1. **Time Series.**  
    1. **LSTM.**  [blog](https://colah.github.io/posts/2015-08-Understanding-LSTMs/)
