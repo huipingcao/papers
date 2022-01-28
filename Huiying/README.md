@@ -19,8 +19,7 @@ This repository maintains a list of materials that Huiying looks into.
 <tr><td colspan="2"><a href="#Notebooks">3. Notebooks </a></td></tr>
 <tr><td colspan="2"><a href="#Github">4. Github </a></td></tr>
 <tr><td colspan="2"><a href="#Books">5. Books </a></td></tr>
-<tr><td colspan="2"><a href="#Foundations">6. Foundations </a></td></tr>
-    <tr><td colspan="2">&emsp;<a href="#Deep-Learning">6.1 Deep Learning</a></td></tr>
+<tr><td colspan="2"><a href="#Foundations-of-Deep-Learning">6. Foundations of Deep Learning </a></td></tr>
 <tr><td colspan="2"><a href="#Tools">7. Tools </a></td></tr>
 <tr><td colspan="2"><a href="#Resources">8. Resources </a></td></tr>
 
@@ -199,9 +198,7 @@ Evaluation, and Open Challenges.** ACM 2020. [paper](https://kristiania.brage.un
     *Jeff M. Phillips*
 
 
-### [Foundations](#content)
-
-#### [Deep Learning](#content)
+### [Foundations of Deep Learning](#content)
 
 **🕹 YouTube - Complete Deep Learning.**  [link](https://www.youtube.com/watch?v=mH9GBJ6og5A&list=PLZoTAELRMXVPGU70ZGsckrMdr0FteeRUi&index=7) 
 
