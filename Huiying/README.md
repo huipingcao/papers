@@ -34,9 +34,6 @@ This repository maintains a list of materials that Huiying looks into.
 1. **A Survey of Methods for Time Series Change Point Detection.** ACM 2017. [paper](https://www.researchgate.net/publication/307947624_A_Survey_of_Methods_for_Time_Series_Change_Point_Detection)
     *Samaneh Aminikhanghahi, Diane J Cook.*
 
-1. **On the Performances of Trend and Change-Point Detection Methods for Remote Sensing Data.** MDPI 2020. [paper](https://www.mdpi.com/2072-4292/12/6/1008)
-    *Ana F. Militino, Mehdi Moradi, M. Dolores Ugarte.*
-
 1. **Bayesian Online Changepoint Detection.** arXiv.stat.ML 2007. [paper](https://arxiv.org/abs/0710.3742)
     *Ryan Prescott Adams, David J.C. MacKay.*
 
@@ -144,9 +141,6 @@ Evaluation, and Open Challenges.** ACM 2020. [paper](https://kristiania.brage.un
 
 
 #### [Edge Computing](#content)
-
-1. **Edge Machine Learning for AI-Enabled IoT Devices: A Review.** MDPI 2020. [paper](https://www.mdpi.com/1424-8220/20/9/2533)
-    *Massimo Merenda,Carlo Porcaro,  Demetrio Iero.*
 
 1. **Deep Learning on Mobile Devices - A Review.** arVix 2019. [paper](https://arxiv.org/abs/1904.09274)
     *Yunbin Deng.*
