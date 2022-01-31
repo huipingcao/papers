@@ -9,7 +9,7 @@ This repository maintains a list of materials that Huiying looks into.
    <tr><td colspan="2">&emsp;<a href="#Anomaly-Detection">1.2 Anomaly Detection</a></td></tr>
    <tr><td colspan="2">&emsp;<a href="#Data-Imputation">1.3 Data Imputation</a></td></tr>
    <tr><td colspan="2">&emsp;<a href="#Un/Self-supervised-Learning">1.4 Un/Self-supervised Learning</a></td></tr>
-   <tr><td colspan="2">&emsp;<a href="#Predicive-Learning">1.5 Predicive Learning </a></td></tr>
+   <tr><td colspan="2">&emsp;<a href="#Predictive-Learning">1.5 Predictive Learning </a></td></tr>
    <tr><td colspan="2">&emsp;<a href="#Knowledge-Distillation">1.6 Knowledge Distillation</a></td></tr>
    <tr><td colspan="2">&emsp;<a href="#Neural-Architecture-Search">1.7 Neural Architecture Search</a></td></tr>
    <tr><td colspan="2">&emsp;<a href="#Edge-Computing">1.8 Edge Computing</a></td></tr>
