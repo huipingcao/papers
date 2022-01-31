@@ -96,6 +96,10 @@ This repository maintains a list of materials that Jiefei looks into.
 1. **LONG SHORT-TERM MEMORY.** MIT Press, 1997. [paper](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.676.4320&rep=rep1&type=pdf)
 
    *Sepp Hochreiter; Jürgen Schmidhuber*
+   
+1. **PredRNN++: Towards A Resolution of the Deep-in-Time Dilemma in Spatiotemporal Predictive Learning** PMLR, 2018. [link](https://proceedings.mlr.press/v80/wang18b.html)
+
+   *Yunbo Wang, Zhifeng Gao, Mingsheng Long, Jianmin Wang, Philip S Yu*
 
 
 ### [Intelligent Alarm](#content)
