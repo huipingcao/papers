@@ -9,11 +9,12 @@ This repository maintains a list of materials that Huiying looks into.
    <tr><td colspan="2">&emsp;<a href="#Anomaly-Detection">1.2 Anomaly Detection</a></td></tr>
    <tr><td colspan="2">&emsp;<a href="#Data-Imputation">1.3 Data Imputation</a></td></tr>
    <tr><td colspan="2">&emsp;<a href="#Un/Self-supervised-Learning">1.4 Un/Self-supervised Learning</a></td></tr>
-   <tr><td colspan="2">&emsp;<a href="#Knowledge-Distillation">1.5 Knowledge Distillation</a></td></tr>
-   <tr><td colspan="2">&emsp;<a href="#Neural-Architecture-Search">1.6 Neural Architecture Search</a></td></tr>
-   <tr><td colspan="2">&emsp;<a href="#Edge-Computing">1.7 Edge Computing</a></td></tr>
-   <tr><td colspan="2">&emsp;<a href="#Transformer">1.8 Transformer</a></td></tr>
-   <tr><td colspan="2">&emsp;<a href="#Attention">1.9 Attention</a></td></tr>
+   <tr><td colspan="2">&emsp;<a href="#Predicive-Learning">1.5 Predicive Learning </a></td></tr>
+   <tr><td colspan="2">&emsp;<a href="#Knowledge-Distillation">1.6 Knowledge Distillation</a></td></tr>
+   <tr><td colspan="2">&emsp;<a href="#Neural-Architecture-Search">1.7 Neural Architecture Search</a></td></tr>
+   <tr><td colspan="2">&emsp;<a href="#Edge-Computing">1.8 Edge Computing</a></td></tr>
+   <tr><td colspan="2">&emsp;<a href="#Transformer">1.9 Transformer</a></td></tr>
+   <tr><td colspan="2">&emsp;<a href="#Attention">1.10 Attention</a></td></tr>
 
 <tr><td colspan="2"><a href="#Courses">2. Courses </a></td></tr>
 <tr><td colspan="2"><a href="#Notebooks">3. Notebooks </a></td></tr>
@@ -79,6 +80,12 @@ Evaluation, and Open Challenges.** ACM 2020. [paper](https://kristiania.brage.un
 
 1. **Transfer Learning or Self-supervised Learning? A Tale of Two Pretraining Paradigms.** arXiv 2020. [paper](https://arxiv.org/abs/2007.04234)
     *Xingyi Yang, Xuehai He, Yuxiao Liang, Yue Yang, Shanghang Zhang, Pengtao Xie.*
+    
+    
+#### [Predictive Learning](#content)
+
+1. **PredRNN++: Towards A Resolution of the Deep-in-Time Dilemma in Spatiotemporal Predictive Learning.** ICML 2018. [paper](https://arxiv.org/abs/1804.06300) [review](https://docs.google.com/document/d/1bKFYpuHvKMZ9SctJj1e3-i0umSL1a5xvmTzzVl63M-I/edit?usp=sharing)
+    *Yunbo Wang, Zhifeng Gao, Mingsheng Long, Jianmin Wang, Philip S. Yu.*    
 
 
 #### [Knowledge Distillation](#content)
