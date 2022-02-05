@@ -223,6 +223,7 @@ Evaluation, and Open Challenges.** ACM 2020. [paper](https://kristiania.brage.un
 
 1. **Recommendation System.**  [github repo](https://github.com/HuiyingC/movie_recommender)
 
+1. **Reinforcement Learning.**  [note](https://docs.google.com/document/d/10TF-JRqnh2ZGKR6R05L3yq7FusbPNYa1uK51sj718eo/edit?usp=sharing)  [github repo](https://github.com/HuiyingC/reinforcement_leaning)
 
 
 ### [Tools](#content)
