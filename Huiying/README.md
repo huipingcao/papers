@@ -180,16 +180,16 @@ Evaluation, and Open Challenges.** ACM 2020. [paper](https://kristiania.brage.un
 
 1. **Attention Is All You Need.** NeurlPS 2017. [paper](https://arxiv.org/abs/1706.03762)
     *Ashish Vaswani, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones, Aidan N. Gomez, Lukasz Kaiser, Illia Polosukhin.*
-
+    
 1. **Effective Approaches to Attention-based Neural Machine Translation.** ACL 2015. [paper](https://aclanthology.org/D15-1166/)
     *Thang Luong, Hieu Pham, Christopher D. Manning.*
 
 
 ### [Notebooks](#content)
 
-1. **notebook_Trajectory Outlier Detection.**  [link](https://docs.google.com/document/d/1DlQEsF-5l1OMhmflhH29dJ3wL3DEzEWVExxA56admVI/edit?usp=sharing) For USDA Animal Science Project
-1. **notebook_Literature Review - Animal Movement with ML.**  [link](https://docs.google.com/document/d/17o5uYJmBdvni6CwfIFJPWchNGcRxGleY18i2HGaXu1c/edit?usp=sharing) 
-1. **notebook_Contrastive Learning.**  [link](https://docs.google.com/document/d/1MtjsTzu7uTvWnZ8rZ11P6_RemtZE59vlg-ISzMKGYb8/edit?usp=sharing)
+1. **Trajectory Outlier Detection.**  [link](https://docs.google.com/document/d/1DlQEsF-5l1OMhmflhH29dJ3wL3DEzEWVExxA56admVI/edit?usp=sharing) For USDA Animal Science Project
+1. **Literature Review - Animal Movement with ML.**  [link](https://docs.google.com/document/d/17o5uYJmBdvni6CwfIFJPWchNGcRxGleY18i2HGaXu1c/edit?usp=sharing) 
+1. **Contrastive Learning.**  [link](https://docs.google.com/document/d/1MtjsTzu7uTvWnZ8rZ11P6_RemtZE59vlg-ISzMKGYb8/edit?usp=sharing)
 
 
 ### [Foundations of Deep Learning](#content)
@@ -222,23 +222,14 @@ Evaluation, and Open Challenges.** ACM 2020. [paper](https://kristiania.brage.un
 ### [Tools](#content)
 
 1. **Paper With Code - Find papers with open source code.**  [link](https://paperswithcode.com/)
-
 1. **Connected Papers - Explore connected papers in a visual graph.**  [link](https://www.connectedpapers.com/)
-
 1. **Research Rabbit - Reimagine Research. We’re rethinking everything: literature search, alerts, and more**  [link](https://www.researchrabbit.ai/)
-
 1. **DeepL Translator.**  [link](https://www.deepl.com/translator)
-
 1. **Paper Digest - Summarizes academic articles.**  [link](https://www.paper-digest.com/)
-
 1. **Academic Phrasebank - Academic writing hints.**  [link](https://www.phrasebank.manchester.ac.uk/)
-
 1. **Pro Writing Aid - Grammar and style checking.**  [link](https://prowritingaid.com/)
-
 1. **Quillbot - Rewrite and enhance any sentence.**  [link](https://quillbot.com/)
-
 1. **ML Visuals - Out-of-box ML figures.**  [link](https://github.com/dair-ai/ml-visuals)
-
 1. **Netron - Viewer for neural network, deep learning, and machine learning models.**  [link](https://www.electronjs.org/apps/netron)
 
 
