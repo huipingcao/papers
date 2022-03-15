@@ -4,29 +4,64 @@ This repository maintains a list of materials that Huiying looks into.
 ## [Content](#content)
 
 <table>
-<tr><td colspan="2"><a href="#Papers">1. Papers </a></td></tr>
-   <tr><td colspan="2">&emsp;<a href="#Change-Point-Detection">1.1 Change Point Detection</a></td></tr>
-   <tr><td colspan="2">&emsp;<a href="#Anomaly-Detection">1.2 Anomaly Detection</a></td></tr>
-   <tr><td colspan="2">&emsp;<a href="#Data-Imputation">1.3 Data Imputation</a></td></tr>
-   <tr><td colspan="2">&emsp;<a href="#Un/Self-supervised-Learning">1.4 Un/Self-supervised Learning</a></td></tr>
-   <tr><td colspan="2">&emsp;<a href="#Predictive-Learning">1.5 Predictive Learning </a></td></tr>
-   <tr><td colspan="2">&emsp;<a href="#Knowledge-Distillation">1.6 Knowledge Distillation</a></td></tr>
-   <tr><td colspan="2">&emsp;<a href="#Neural-Architecture-Search">1.7 Neural Architecture Search</a></td></tr>
-   <tr><td colspan="2">&emsp;<a href="#Edge-Computing">1.8 Edge Computing</a></td></tr>
-   <tr><td colspan="2">&emsp;<a href="#Transformer">1.9 Transformer</a></td></tr>
-   <tr><td colspan="2">&emsp;<a href="#Attention">1.10 Attention</a></td></tr>
+<tr><td colspan="2"><a href="#Papers">Papers </a></td></tr>
+<tr><td colspan="2">&emsp;<a href="#Graph-Data">Graph Data</a></td></tr>
+	<tr><td colspan="2">&emsp;&emsp;<a href="#Contrastive-Learning">Contrastive Learning</a></td></tr>
+	<tr><td colspan="2">&emsp;&emsp;<a href="#Diffusion">Diffusion</a></td></tr>
+	
+<tr><td colspan="2">&emsp;<a href="#Sequential-Data">Sequential Data</a></td></tr>
+	<tr><td colspan="2">&emsp;&emsp;<a href="#Change-Point-Detection">Change Point Detection</a></td></tr>
+	<tr><td colspan="2">&emsp;&emsp;<a href="#Anomaly-Detection">Anomaly Detection</a></td></tr>
+	<tr><td colspan="2">&emsp;&emsp;<a href="#Data-Imputation">Data Imputation</a></td></tr>
+	<tr><td colspan="2">&emsp;&emsp;<a href="#Predictive-Learning">Predictive Learning </a></td></tr>
+	<tr><td colspan="2">&emsp;&emsp;<a href="#Transformer">Transformer</a></td></tr>
 
-<tr><td colspan="2"><a href="#Courses">2. Courses </a></td></tr>
-<tr><td colspan="2"><a href="#Notebooks">3. Notebooks </a></td></tr>
-<tr><td colspan="2"><a href="#Github">4. Github </a></td></tr>
-<tr><td colspan="2"><a href="#Books">5. Books </a></td></tr>
-<tr><td colspan="2"><a href="#Foundations-of-Deep-Learning">6. Foundations of Deep Learning </a></td></tr>
-<tr><td colspan="2"><a href="#Tools">7. Tools </a></td></tr>
-<tr><td colspan="2"><a href="#Resources">8. Resources </a></td></tr>
+<tr><td colspan="2">&emsp;<a href="#Un/Self-supervised-Learning">Un/Self-supervised Learning</a></td></tr>
+<tr><td colspan="2">&emsp;<a href="#Knowledge-Distillation">Knowledge Distillation</a></td></tr>
+<tr><td colspan="2">&emsp;<a href="#Neural-Architecture-Search">Neural Architecture Search</a></td></tr>
+<tr><td colspan="2">&emsp;<a href="#Attention">Attention</a></td></tr>
 
+<tr><td colspan="2"><a href="#Notebooks">Notebooks </a></td></tr>
+<tr><td colspan="2"><a href="#Foundations-of-Deep-Learning">Foundations of Deep Learning </a></td></tr>
+<tr><td colspan="2"><a href="#Tools">Tools </a></td></tr>
+<tr><td colspan="2"><a href="#Resources">Resources </a></td></tr>
 </table>
 
-## [Papers](#content)
+### [Papers](#content)
+
+#### [Contrastive Learning](#content)
+
+1. **Multi-Scale Contrastive Siamese Networks for Self-Supervised Graph Representation Learning.** IJCAI 2021. [paper](https://www.ijcai.org/proceedings/2021/0204.pdf) [code](https://github.com/GRAND-Lab/MERIT)
+    *Yanqiao Zhu, Yichen Xu, Feng Yu, Qianq Liu, Shu Wu, Liang Wang.*
+
+1. **Deep Graph Contrastive Representation Learning.** ICML 2020. [paper](https://arxiv.org/abs/2006.04131v2) [code](https://github.com/CRIPAC-DIG/GRACE)
+    *Yanqiao Zhu, Yichen Xu, Feng Yu, Qianq Liu, Shu Wu, Liang Wang.*
+
+1. **Graph Contrastive Learning with Augmentation.**  NeurIPS 2020. [paper](https://arxiv.org/abs/2010.13902) [code](https://github.com/Shen-Lab/GraphCL)
+    *Yuning You, Tianlong Chen, Yongduo Sui, Ting Chen, Zhangyang Wang, Yang Shen.*
+    
+
+#### [Data Imputation](#content)
+
+1. **FILLING THE G AP S: MULTIVARIATE TIME SERIES IMPUTATION BY GRAPH NEURAL NETWORKS.** ICLR 2022. [paper](https://arxiv.org/pdf/2108.00298.pdf)
+    *Andrea Cini, Ivan Marisca, Cesare Alippi.*
+
+1. **Multivariate Time Series Imputation with Generative Adversarial Networks.** NeurIPS 2018. [paper](https://papers.nips.cc/paper/2018/file/96b9bff013acedfb1d140579e2fbeb63-Paper.pdf)
+    *Yonghong Luo, Xiangrui Cai, Ying Zhang ∗, Jun Xu, Xiaojie Yuan.*
+
+1. **Generative Semi-supervised Learning for Multivariate Time Series Imputation.** AAAI 2021. [paper](https://papers.nips.cc/paper/2018/file/96b9bff013acedfb1d140579e2fbeb63-Paper.pdf)
+    *Xiaoye Miao, Yangyang Wu, Jun Wang, Yunjun Gao, Xudong Mao, Jianwei Yin.*
+
+1. **Missing Data Imputation using Optimal Transport.** PMLR 2020. [paper](http://proceedings.mlr.press/v119/muzellec20a.html)
+    *Boris Muzellec, Julie Josse, Claire Boyer, Marco Cuturi.*
+
+1. **Filling Missing Values on Wearable-Sensory Time Series Data .** SIAM 2020. [paper](https://epubs.siam.org/doi/10.1137/1.9781611976236.6)
+    *Suwen Lin, Xian Wu, Gonzalo Martinez and Nitesh V. Chawla.*
+    
+1. **ST-MVL: Filling Missing Values in Geo-Sensory Time Series Data.** IJCAI 2016. [paper](https://www.ijcai.org/Proceedings/16/Papers/384.pdf)
+    *Xiuwen Yi, Yu Zheng, Junbo Zhang, Tianrui Li.*
+    
+
 #### [Change Point Detection](#content)
 
 1. **An Evaluation of Change Point Detection Algorithms.** arXiv.stat.ML 2020. [paper](https://arxiv.org/abs/2003.06222)
@@ -60,32 +95,11 @@ Evaluation, and Open Challenges.** ACM 2020. [paper](https://kristiania.brage.un
 1. **An overview on trajectory outlier detection.** Springer 2018. [paper](https://www.researchgate.net/publication/322898173_An_overview_on_trajectory_outlier_detection)
     *Fanrong Meng.*
 
-1. **Trajectory Outlier Detection: A Partition-and-Detect Framework.** IEEE 2008. [paper](http://hanj.cs.illinois.edu/pdf/icde08_jaegil_lee.pdf)
-    *Jae-Gil Lee, Jiawei Han, Xiaolei Li.*
-
-
-#### [Data Imputation](#content)
-
-1. **Missing Data Imputation using Optimal Transport.** PMLR 2020. [paper](http://proceedings.mlr.press/v119/muzellec20a.html)
-    *Boris Muzellec, Julie Josse, Claire Boyer, Marco Cuturi.*
-
-1. **Filling Missing Values on Wearable-Sensory Time Series Data .** SIAM 2020. [paper](https://epubs.siam.org/doi/10.1137/1.9781611976236.6)
-    *Suwen Lin, Xian Wu, Gonzalo Martinez and Nitesh V. Chawla.*
-    
-1. **ST-MVL: Filling Missing Values in Geo-Sensory Time Series Data.** IJCAI 2016. [paper](https://www.ijcai.org/Proceedings/16/Papers/384.pdf)
-    *Xiuwen Yi, Yu Zheng, Junbo Zhang, Tianrui Li.*
-
 
 #### [Un/Self-supervised Learning](#content)
 
 1. **Transfer Learning or Self-supervised Learning? A Tale of Two Pretraining Paradigms.** arXiv 2020. [paper](https://arxiv.org/abs/2007.04234)
     *Xingyi Yang, Xuehai He, Yuxiao Liang, Yue Yang, Shanghang Zhang, Pengtao Xie.*
-    
-    
-#### [Predictive Learning](#content)
-
-1. **PredRNN++: Towards A Resolution of the Deep-in-Time Dilemma in Spatiotemporal Predictive Learning.** ICML 2018. [paper](https://arxiv.org/abs/1804.06300) [review](https://docs.google.com/document/d/1bKFYpuHvKMZ9SctJj1e3-i0umSL1a5xvmTzzVl63M-I/edit?usp=sharing)
-    *Yunbo Wang, Zhifeng Gao, Mingsheng Long, Jianmin Wang, Philip S. Yu.*    
 
 
 #### [Knowledge Distillation](#content)
@@ -145,13 +159,7 @@ Evaluation, and Open Challenges.** ACM 2020. [paper](https://kristiania.brage.un
 
 1. **CP-NAS: Child-Parent Neural Architecture Search for 1-bit CNNs.** IJCAI 2020. [paper](https://arxiv.org/abs/2005.00057)
     *Li'an Zhuo, Baochang Zhang, Hanlin Chen, Linlin Yang, Chen Chen, Yanjun Zhu, David Doermann.*
-
-
-#### [Edge Computing](#content)
-
-1. **Deep Learning on Mobile Devices - A Review.** arVix 2019. [paper](https://arxiv.org/abs/1904.09274)
-    *Yunbin Deng.*
-
+    
 
 #### [Transformer](#content)
 
@@ -163,9 +171,6 @@ Evaluation, and Open Challenges.** ACM 2020. [paper](https://kristiania.brage.un
 
 1. **Informer: Beyond Efficient Transformer for Long Sequence Time-Series Forecasting.** arVix 2020. [paper](https://arxiv.org/abs/2012.07436)
     *Haoyi Zhou, Shanghang Zhang, Jieqi Peng, Shuai Zhang, Jianxin Li, Hui Xiong, Wancai Zhang.*
-
-1. **Deep Transformer Models for Time Series Forecasting: The Influenza Prevalence Case.** arVix 2020. [paper](https://arxiv.org/abs/2001.08317)
-    *Neo Wu, Bradley Green, Xue Ben, Shawn O'Banion.*
 
 1. **The Evolved Transformer.** ICML 2019. [paper](https://arxiv.org/abs/1901.11117)
     *David R. So, Chen Liang, Quoc V. Le.*
@@ -186,40 +191,28 @@ Evaluation, and Open Challenges.** ACM 2020. [paper](https://kristiania.brage.un
 1. **notebook_Literature Review - Animal Movement with ML.**  [link](https://docs.google.com/document/d/17o5uYJmBdvni6CwfIFJPWchNGcRxGleY18i2HGaXu1c/edit?usp=sharing) 
 1. **notebook_Contrastive Learning.**  [link](https://docs.google.com/document/d/1MtjsTzu7uTvWnZ8rZ11P6_RemtZE59vlg-ISzMKGYb8/edit?usp=sharing)
 
-### [Github](#content)
-
-1. **Anomaly Detection Learning Resources.**  [link](https://github.com/yzhao062/anomaly-detection-resources)
-
-1. **awesome-TS-anomaly-detection .**  [link](https://github.com/rob-med/awesome-TS-anomaly-detection)
-
-
-### [Books](#content)
-
-1. **Mathematical Foundations for Data Analysis.**  [link](https://mathfordata.github.io/)
-    *Jeff M. Phillips*
-
 
 ### [Foundations of Deep Learning](#content)
 
-**🕹 YouTube - Complete Deep Learning.**  [link](https://www.youtube.com/watch?v=mH9GBJ6og5A&list=PLZoTAELRMXVPGU70ZGsckrMdr0FteeRUi&index=7) 
+**YouTube - Complete Deep Learning.**  [link](https://www.youtube.com/watch?v=mH9GBJ6og5A&list=PLZoTAELRMXVPGU70ZGsckrMdr0FteeRUi&index=7) 
 
 **Coding Practice.** [github repo](https://github.com/HuiyingC/deep_learning_practice)  
 
 1. **Basics - Actication Functions, BackPropagation, SGD & GD, Optimizers, Loss Functions, ANN, CNN, etc..** [note](https://docs.google.com/document/d/1N_pN_1e2B6Ytjx7Xl_f6P0G8HnbyKovUPRdZ3V4U4wo/edit?usp=sharing) [code](https://colab.research.google.com/drive/1SVbHVL7SuUonq66Y9d7SW60r5O6qvjCI?usp=sharing)
 
 1. **NLP.**  [note](https://docs.google.com/document/d/1JMJXKoWg5ezUXpITkGcIJQRKKOYN4R8Ita6qhEJuJ2M/edit?usp=sharing)
-   1. **Word Embedding.**  [video](https://www.youtube.com/watch?v=pO_6Jk0QtKw&list=PLZoTAELRMXVPGU70ZGsckrMdr0FteeRUi&index=42) [code](https://colab.research.google.com/drive/1iWDevNf3MsGmx4jyP9OoydG00Nh-UblS?usp=sharing) [blog](https://machinelearningmastery.com/use-word-embedding-layers-deep-learning-keras/) 
-   1. **Faker News Classifier Using LSTM.**  [video](https://www.youtube.com/watch?v=MXPh_lMRwAI&list=PLZoTAELRMXVPGU70ZGsckrMdr0FteeRUi&index=45) [code](https://colab.research.google.com/drive/1uosj0pCty_g5z-FNbcEJEKG-Ig0J5Wgx?usp=sharing) 
-   1. **Stock Price Prediction And Forecasting Using Stacked LSTM.**  [video](https://www.youtube.com/watch?v=H6du_pfuznE&list=PLZoTAELRMXVPGU70ZGsckrMdr0FteeRUi&index=46)  [code](https://colab.research.google.com/drive/1DpxtBGcosxzx8JzdJW__4_6UHe7vPGRZ?usp=sharing)  [blog](https://machinelearningmastery.com/time-series-prediction-with-deep-learning-in-python-with-keras/)
-   1. **Fake News Classifier Using Bidirectional LSTM RNN.**  [video](https://www.youtube.com/watch?v=RpTmnRGJvRQ&list=PLZoTAELRMXVPGU70ZGsckrMdr0FteeRUi&index=48) [code](https://colab.research.google.com/drive/1Eyjawqz_WbuyUDcBWM0uynnccVqeryLc?usp=sharing) 
-   1. **Deep Learning End To End Project - A simple Flask app to classify uploaded images by VGG19 transfer learning.**  [video](https://www.youtube.com/watch?v=UeydWKkjwwE&list=PLZoTAELRMXVPGU70ZGsckrMdr0FteeRUi&index=50) [code](https://github.com/HuiyingC/Flask_upload_image_classification) 
-   1. **Encoder And Decoder - Language Translation & Inference (sequence-to-sequence).**  [video](https://www.youtube.com/watch?v=f-JCCOHwx1c&list=PLZoTAELRMXVPGU70ZGsckrMdr0FteeRUi&index=52&ab_channel=KrishNaik)  [code](https://colab.research.google.com/github/keras-team/keras-io/blob/master/examples/nlp/ipynb/lstm_seq2seq.ipynb#scrollTo=wEAFiThefecS)  [blog](https://blog.keras.io/a-ten-minute-introduction-to-sequence-to-sequence-learning-in-keras.html) [dataset](http://www.manythings.org/anki/) 
-   1. **NeurIPS 2014 Sequence to Sequence Learning with Neural Networks.**  [paper](https://proceedings.neurips.cc/paper/2014/file/a14ac55a4f27472c5d894ec1c3c743d2-Paper.pdf)
-   1. **ICLR 2015 Neural Machine Translation by Jointly Learning to Align and Translate - To Solve the Problem in Encoder and Decoder.**  [paper](https://arxiv.org/pdf/1409.0473.pdf)
+	1. **Word Embedding.**  [video](https://www.youtube.com/watch?v=pO_6Jk0QtKw&list=PLZoTAELRMXVPGU70ZGsckrMdr0FteeRUi&index=42) [code](https://colab.research.google.com/drive/1iWDevNf3MsGmx4jyP9OoydG00Nh-UblS?usp=sharing) [blog](https://machinelearningmastery.com/use-word-embedding-layers-deep-learning-keras/) 
+	1. **Faker News Classifier Using LSTM.**  [video](https://www.youtube.com/watch?v=MXPh_lMRwAI&list=PLZoTAELRMXVPGU70ZGsckrMdr0FteeRUi&index=45) [code](https://colab.research.google.com/drive/1uosj0pCty_g5z-FNbcEJEKG-Ig0J5Wgx?usp=sharing) 
+	1. **Stock Price Prediction And Forecasting Using Stacked LSTM.**  [video](https://www.youtube.com/watch?v=H6du_pfuznE&list=PLZoTAELRMXVPGU70ZGsckrMdr0FteeRUi&index=46)  [code](https://colab.research.google.com/drive/1DpxtBGcosxzx8JzdJW__4_6UHe7vPGRZ?usp=sharing)  [blog](https://machinelearningmastery.com/time-series-prediction-with-deep-learning-in-python-with-keras/)
+	1. **Fake News Classifier Using Bidirectional LSTM RNN.**  [video](https://www.youtube.com/watch?v=RpTmnRGJvRQ&list=PLZoTAELRMXVPGU70ZGsckrMdr0FteeRUi&index=48) [code](https://colab.research.google.com/drive/1Eyjawqz_WbuyUDcBWM0uynnccVqeryLc?usp=sharing) 
+	1. **Deep Learning End To End Project - A simple Flask app to classify uploaded images by VGG19 transfer learning.**  [video](https://www.youtube.com/watch?v=UeydWKkjwwE&list=PLZoTAELRMXVPGU70ZGsckrMdr0FteeRUi&index=50) [code](https://github.com/HuiyingC/Flask_upload_image_classification) 
+	1. **Encoder And Decoder - Language Translation & Inference (sequence-to-sequence).**  [video](https://www.youtube.com/watch?v=f-JCCOHwx1c&list=PLZoTAELRMXVPGU70ZGsckrMdr0FteeRUi&index=52&ab_channel=KrishNaik)  [code](https://colab.research.google.com/github/keras-team/keras-io/blob/master/examples/nlp/ipynb/lstm_seq2seq.ipynb#scrollTo=wEAFiThefecS)  [blog](https://blog.keras.io/a-ten-minute-introduction-to-sequence-to-sequence-learning-in-keras.html) [dataset](http://www.manythings.org/anki/) 
+	1. **NeurIPS 2014 Sequence to Sequence Learning with Neural Networks.**  [paper](https://proceedings.neurips.cc/paper/2014/file/a14ac55a4f27472c5d894ec1c3c743d2-Paper.pdf)
+	1. **ICLR 2015 Neural Machine Translation by Jointly Learning to Align and Translate - To Solve the Problem in Encoder and Decoder.**  [paper](https://arxiv.org/pdf/1409.0473.pdf)
 
 1. **Time Series.**  
-   1. **LSTM.**  [blog](https://colah.github.io/posts/2015-08-Understanding-LSTMs/)
-   1. **Self-Supervised Representation Learning.**  [blog](https://lilianweng.github.io/lil-log/2019/11/10/self-supervised-learning.html)
+	1. **LSTM.**  [blog](https://colah.github.io/posts/2015-08-Understanding-LSTMs/)
+	1. **Self-Supervised Representation Learning.**  [blog](https://lilianweng.github.io/lil-log/2019/11/10/self-supervised-learning.html)
 
 1. **Recommendation System.**  [github repo](https://github.com/HuiyingC/movie_recommender)
 
@@ -252,7 +245,4 @@ Evaluation, and Open Challenges.** ACM 2020. [paper](https://kristiania.brage.un
 ### [Resources](#content)
 
 1. **Tiingo - A Reliable, Enterprise-Grade Financial Markets API.**  [link](https://api.tiingo.com/)
-
-
-
 
