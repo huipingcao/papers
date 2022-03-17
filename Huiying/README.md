@@ -242,6 +242,7 @@ Evaluation, and Open Challenges.** ACM 2020. [paper](https://kristiania.brage.un
 ### [People](#content)
 1. **Graph Representation Learning - Constrastive Learning.**
 	1. **Ming Jin (GRAND Lab at Monash University).** [google-scholar](https://scholar.google.com/citations?hl=en&user=I2xvKaIAAAAJ) [profile](https://kimmeen.github.io/)	
+	1. **Prof. Shirui Pan (GRAND Lab at Monash University).** [google-scholar](https://scholar.google.com.au/citations?hl=en&user=frWRJN4AAAAJ&view_op=list_works&sortby=pubdate) [profile](https://shiruipan.github.io/)	
 	1. **Yuning You (Shen Lab at Texas A&M University).** [google-scholar](https://scholar.google.com/citations?user=KEwC1N8AAAAJ&hl=en) [profile](https://yyou1996.github.io/publications/)
 	1. **Yanqiao Zhu (Institute of Automation, Chinese Academy of Sciences).** [google-scholar](https://scholar.google.com/citations?hl=en&user=NBbJT3AAAAAJ) [profile](https://sxkdz.github.io/)
 
