@@ -25,6 +25,7 @@ This repository maintains a list of materials that Huiying looks into.
 <tr><td colspan="2"><a href="#Foundations-of-Deep-Learning">Foundations of Deep Learning </a></td></tr>
 <tr><td colspan="2"><a href="#Tools">Tools </a></td></tr>
 <tr><td colspan="2"><a href="#Resources">Resources </a></td></tr>
+<tr><td colspan="2"><a href="#People">People </a></td></tr>	
 </table>
 
 ### [Papers](#content)
@@ -236,4 +237,15 @@ Evaluation, and Open Challenges.** ACM 2020. [paper](https://kristiania.brage.un
 ### [Resources](#content)
 
 1. **Tiingo - A Reliable, Enterprise-Grade Financial Markets API.**  [link](https://api.tiingo.com/)
+
+
+### [People](#content)
+1. **Graph Representation Learning - Constrastive Learning.**
+	1. **Ming Jin (GRAND Lab at Monash University).** [Google Scholar](https://scholar.google.com/citations?hl=en&user=I2xvKaIAAAAJ) [profile](https://kimmeen.github.io/)	
+	1. **Yuning You (Shen Lab at Texas A&M University).** [Google Scholar](https://scholar.google.com/citations?user=KEwC1N8AAAAJ&hl=en) [profile](https://yyou1996.github.io/publications/)
+	1. **Yanqiao Zhu (Institute of Automation, Chinese Academy of Sciences).** [Google Scholar](https://scholar.google.com/citations?hl=en&user=NBbJT3AAAAAJ) [profile](https://sxkdz.github.io/)
+
+
+
+
 
