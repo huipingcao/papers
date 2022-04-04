@@ -225,6 +225,7 @@ Evaluation, and Open Challenges.** ACM 2020. [paper](https://kristiania.brage.un
 1. **Paper With Code - Find papers with open source code.**  [link](https://paperswithcode.com/)
 1. **Connected Papers - Explore connected papers in a visual graph.**  [link](https://www.connectedpapers.com/)
 1. **Research Rabbit - Reimagine Research. We’re rethinking everything: literature search, alerts, and more**  [link](https://www.researchrabbit.ai/)
+1. **Open Knowledge Maps - A visual interface to the world's scientific knowledge**  [link](https://openknowledgemaps.org/index)
 1. **DeepL Translator.**  [link](https://www.deepl.com/translator)
 1. **Paper Digest - Summarizes academic articles.**  [link](https://www.paper-digest.com/)
 1. **Academic Phrasebank - Academic writing hints.**  [link](https://www.phrasebank.manchester.ac.uk/)
