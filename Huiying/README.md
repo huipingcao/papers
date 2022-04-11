@@ -41,6 +41,12 @@ This repository maintains a list of materials that Huiying looks into.
 1. **Graph Contrastive Learning with Augmentation.**  NeurIPS 2020. [paper](https://arxiv.org/abs/2010.13902) [code](https://github.com/Shen-Lab/GraphCL)
     *Yuning You, Tianlong Chen, Yongduo Sui, Ting Chen, Zhangyang Wang, Yang Shen.*
     
+1. **GCC: Graph Contrastive Coding for Graph Neural Network Pre-Training.**  KDD 2020. [paper](https://arxiv.org/abs/2006.09963) [code](https://github.com/THUDM/GCC)
+    *Jiezhong Qiu, Qibin Chen, Yuxiao Dong, Jing Zhang, Hongxia Yang, Ming Ding, Kuansan Wang, Jie Tang.*
+    
+1. **GraLSP: Graph Neural Networks with Local Structural Patterns.**  AAAI 2020. [paper](https://arxiv.org/abs/1911.07675) [code](https://github.com/KL4805/GraLSP)
+    *Yilun Jin, Guojie Song, Chuan Shi.*
+    
 
 #### [Data Imputation](#content)
 
