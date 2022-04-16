@@ -7,7 +7,7 @@ This repository maintains a list of materials that Huiying looks into.
 <tr><td colspan="2"><a href="#Papers">Papers </a></td></tr>
 <tr><td colspan="2">&emsp;<a href="#Graph-Data">Graph Data</a></td></tr>
 	<tr><td colspan="2">&emsp;&emsp;<a href="#Contrastive-Learning">Contrastive Learning</a></td></tr>
-	<tr><td colspan="2">&emsp;&emsp;<a href="#Diffusion">Diffusion</a></td></tr>
+	<tr><td colspan="2">&emsp;&emsp;<a href="#Pre-Training">Pre-Training</a></td></tr>
 	
 <tr><td colspan="2">&emsp;<a href="#Sequential-Data">Sequential Data</a></td></tr>
 	<tr><td colspan="2">&emsp;&emsp;<a href="#Change-Point-Detection">Change Point Detection</a></td></tr>
@@ -46,6 +46,12 @@ This repository maintains a list of materials that Huiying looks into.
     
 1. **GraLSP: Graph Neural Networks with Local Structural Patterns.**  AAAI 2020. [paper](https://arxiv.org/abs/1911.07675) [code](https://github.com/KL4805/GraLSP)
     *Yilun Jin, Guojie Song, Chuan Shi.*
+    
+
+#### [Pre-Training](#content)
+
+1. **Strategies for Pre-training Graph Neural Networks.** ICLR 2020. [paper](https://arxiv.org/abs/1905.12265) [code](https://github.com/snap-stanford/pretrain-gnns)
+    *Weihua Hu, Bowen Liu, Joseph Gomes, Marinka Zitnik, Percy Liang, Vijay Pande, Jure Leskovec.*    
     
 
 #### [Data Imputation](#content)
