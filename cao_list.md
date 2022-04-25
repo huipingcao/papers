@@ -22,10 +22,10 @@ This paper works on training a network (f) mapping from inputs to outputs withou
 
 
 ## Self-supervised learning
-- Part-1 Introduction to Self-Supervised Learning (https://www.youtube.com/watch?v=lW0ZIOyhRic (very high-level))</br>
-- Part-2 Introduction to Self-Supervised Learning (https://www.youtube.com/watch?v=j-RSaXzwIHw)</br>
+- Part-1 Introduction to Self-Supervised Learning (https://www.youtube.com/watch?v=lW0ZIOyhRic (very high-level))
+- Part-2 Introduction to Self-Supervised Learning (https://www.youtube.com/watch?v=j-RSaXzwIHw)
 - Yann LeCun @EPFL - "Self-supervised learning: could machines learn like humans?" - https://www.youtube.com/watch?v=7I0Qt…
-Alexei (Alyosha) Efros - Self-Supervised Deep Learning - https://www.youtube.com/watch?v=YhYsv</br>
+- Alexei (Alyosha) Efros - Self-Supervised Deep Learning - https://www.youtube.com/watch?v=YhYsv
 - Transfer Learning or Self-supervised Learning? A Tale of Two Pretraining Paradigms. Xingyi Yang, Xuehai He, Yuxiao Liang, Yue Yang, Shanghang Zhang, Pengtao Xie (https://arxiv.org/abs/2007.04234) 
 
 
