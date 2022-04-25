@@ -1,4 +1,8 @@
 
+## Tools & links
+- https://www.connectedpapers.com/: This tool is really helpful for searching for related papers. 
+- AI conference dedlines (machine learning, data mining) https://aideadlin.es/?sub=ML,DM
+
 
 ## Time series classification
 1. Xuchao Zhang, Yifeng Gao, Jessica Lin, Chang-Tien Lu: <b>TapNet: Multivariate Time Series Classification with Attentional Prototypical Network</b>>. AAAI 2020 (https://xuczhang.github.io/papers/aaai20_tapnet.pdf)
