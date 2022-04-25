@@ -13,3 +13,5 @@ This paper works on training a network (f) mapping from inputs to outputs withou
 ## Power system - security, alarm analysis
 1. Yan Xu : A review of cyber security risks of power systems: from static to dynamic false data attacks. Protection and Control of Modern Power Systems volume 5, Article number: 19 (2020). 
 
+## GNNs
+1. Graph neutral network papers:  https://github.com/thunlp/GNNPapers
