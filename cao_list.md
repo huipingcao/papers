@@ -17,8 +17,11 @@ This paper works on training a network (f) mapping from inputs to outputs withou
 1. Graph neutral network papers:  https://github.com/thunlp/GNNPapers
 
 ## Generative Adversarial Networks (GANs)
-2. Ian J. Goodfellow, Jean Pouget-Abadie, Mehdi Mirza, Bing Xu, David Warde-Farley, Sherjil Ozair, Aaron C. Courville, Yoshua Bengio: Generative adversarial networks. Commun. ACM 63(11): 139-144 (2020). 
-1. Ian J. Goodfellow, Jean Pouget-Abadie, Mehdi Mirza, Bing Xu, David Warde-Farley, Sherjil Ozair, Aaron C. Courville, Yoshua Bengio: Generative Adversarial Nets. NIPS 2014: 2672-2680. 
+- Nan Gao, Hao Xue, Wei Shao, Sichen Zhao, Kyle Kai Qin, Arian Prabowo, Mohammad Saiedur Rahaman, Flora D. Salim:
+Generative Adversarial Networks for Spatio-temporal Data: A Survey. CoRR abs/2008.08903 (2020). 
+- Ian J. Goodfellow, Jean Pouget-Abadie, Mehdi Mirza, Bing Xu, David Warde-Farley, Sherjil Ozair, Aaron C. Courville, Yoshua Bengio: Generative adversarial networks. Commun. ACM 63(11): 139-144 (2020). 
+- Jinsung Yoon, Daniel Jarrett, Mihaela van der Schaar: Time-series Generative Adversarial Networks. NeurIPS 2019: 5509-5519. 
+- Ian J. Goodfellow, Jean Pouget-Abadie, Mehdi Mirza, Bing Xu, David Warde-Farley, Sherjil Ozair, Aaron C. Courville, Yoshua Bengio: Generative Adversarial Nets. NIPS 2014: 2672-2680. 
 
 
 ## Self-supervised learning
