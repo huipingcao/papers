@@ -18,5 +18,15 @@ This paper works on training a network (f) mapping from inputs to outputs withou
 
 ## Generative Adversarial Networks (GANs)
 2. Ian J. Goodfellow, Jean Pouget-Abadie, Mehdi Mirza, Bing Xu, David Warde-Farley, Sherjil Ozair, Aaron C. Courville, Yoshua Bengio: Generative adversarial networks. Commun. ACM 63(11): 139-144 (2020). 
-1. Ian J. Goodfellow, Jean Pouget-Abadie, Mehdi Mirza, Bing Xu, David Warde-Farley, Sherjil Ozair, Aaron C. Courville, Yoshua Bengio: Generative Adversarial Nets. NIPS 2014: 2672-2680.  
+1. Ian J. Goodfellow, Jean Pouget-Abadie, Mehdi Mirza, Bing Xu, David Warde-Farley, Sherjil Ozair, Aaron C. Courville, Yoshua Bengio: Generative Adversarial Nets. NIPS 2014: 2672-2680. 
+
+
+## Self-supervised learning
+- Part-1 Introduction to Self-Supervised Learning (https://www.youtube.com/watch?v=lW0ZIOyhRic (very high-level))</br>
+- Part-2 Introduction to Self-Supervised Learning (https://www.youtube.com/watch?v=j-RSaXzwIHw)</br>
+- Yann LeCun @EPFL - "Self-supervised learning: could machines learn like humans?" - https://www.youtube.com/watch?v=7I0Qt…
+Alexei (Alyosha) Efros - Self-Supervised Deep Learning - https://www.youtube.com/watch?v=YhYsv</br>
+- Transfer Learning or Self-supervised Learning? A Tale of Two Pretraining Paradigms. Xingyi Yang, Xuehai He, Yuxiao Liang, Yue Yang, Shanghang Zhang, Pengtao Xie (https://arxiv.org/abs/2007.04234) 
+
+
 
