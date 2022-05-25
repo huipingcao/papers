@@ -1,7 +1,8 @@
 
-## Tools & links
+## Tools & links & computing resources
 - https://www.connectedpapers.com/: This tool is really helpful for searching for related papers. 
 - AI conference dedlines (machine learning, data mining) https://aideadlin.es/?sub=ML,DM
+- Computing resource: https://www.xsede.org/
 
 ## ASP
 - Video by Prof. Schaub at Potsdam https://www.youtube.com/c/potassco-live
@@ -38,5 +39,7 @@ Generative Adversarial Networks for Spatio-temporal Data: A Survey. CoRR abs/200
 - Alexei (Alyosha) Efros - Self-Supervised Deep Learning - https://www.youtube.com/watch?v=YhYsv
 - Transfer Learning or Self-supervised Learning? A Tale of Two Pretraining Paradigms. Xingyi Yang, Xuehai He, Yuxiao Liang, Yue Yang, Shanghang Zhang, Pengtao Xie (https://arxiv.org/abs/2007.04234) 
 
-
+## Energy-based models
+- Energy-Based Models for Self-Supervised Learning - Yann LeCun (Youtube: https://www.youtube.com/watch?v=BqgnnrojVBI)
+- http://courselookup.nmsu.edu
 
