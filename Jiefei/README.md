@@ -6,14 +6,20 @@ This repository maintains a list of materials that Jiefei looks into.
 
 <table>
 <tr><td colspan="2"><a href="#Papers">1. Papers </a></td></tr>
- <tr><td colspan="2">&emsp;<a href="#Change-Point-Detection">1.1 Change Point Detection</a></td></tr>
+<tr><td colspan="2">&emsp;<a href="#Change-Point-Detection">1.1 Change Point Detection</a></td></tr>
 <tr><td colspan="2">&emsp;<a href="#Autoregressive">1.2 Autoregressive</a></td></tr>
 <tr><td colspan="2">&emsp;<a href="#PMU">1.3 PMU</a></td></tr>
 <tr><td colspan="2">&emsp;<a href="#Smart-Grid">1.4 Smart Grid</a></td></tr>
 <tr><td colspan="2">&emsp;<a href="#Anomaly-detection">1.5 Anomaly detection</a></td></tr> 
 <tr><td colspan="2">&emsp;<a href="#Long-Short-Term-Memory">1.6 Long Short Term Memory</a></td></tr>
 <tr><td colspan="2">&emsp;<a href="#Intelligent-Alarm">1.6 Intelligent Alarm</a></td></tr>
- <tr><td colspan="2">&emsp;<a href="#Attention">1.7 Attention</a></td></tr>
+<tr><td colspan="2">&emsp;<a href="#Attention">1.7 Attention</a></td></tr>
+<tr><td colspan="2">&emsp;<a href="#GNN">1.8 GNN</a></td></tr>
+<tr><td colspan="2">&emsp;<a href="#RNN">1.9 RNN</a></td></tr>
+<tr><td colspan="2">&emsp;<a href="#Semi-supervised-Learning">2.0 Semi-supervised Learning</a></td></tr>
+<tr><td colspan="2">&emsp;<a href="#GCN">2.1 GCN</a></td></tr>
+<tr><td colspan="2">&emsp;<a href="#Few-shot-Learning">2.2 Few-shot Learning</a></td></tr>
+<tr><td colspan="2">&emsp;<a href="#Time-Series-Segmentation">2.3 Time Series Segmentation</a></td></tr>
 
 <tr><td colspan="2"><a href="#Courses">2. Courses </a></td></tr>
   <tr><td colspan="2">&emsp;<a href="#Online-Courses">2.1 Online Courses</a></td></tr>
@@ -140,6 +146,65 @@ This repository maintains a list of materials that Jiefei looks into.
 
    *Ashish Vaswani, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones, Aidan N. Gomez, Lukasz Kaiser, Illia Polosukhin*
 
+### [GNN](#content)
+1. **The Graph Neural Network Model.** IEEE 2008. [paper](https://ieeexplore.ieee.org/abstract/document/4700287?casa_token=VgBYFSMAPlIAAAAA:MYxpkuRL_g_fI6QMFzoU2XUWa5hU99wZ2N_uqoP0K2hC20BUH9Y1J7v1CpHyypS-isURLUyVlig)
+
+   *Franco Scarselli, Marco Gori, Fellow, IEEE, Ah Chung Tsoi, Markus Hagenbuchner, Member, IEEE, and Gabriele Monfardini*
+
+### [RNN](#content)
+1. **PredRNN++: Towards A Resolution of the Deep-in-Time Dilemma in Spatiotemporal Predictive Learning** ICML 2018. [paper](https://arxiv.org/abs/1804.06300)
+
+   *Yunbo Wang, Zhifeng Gao, Mingsheng Long, Jianmin Wang, Philip S. Yu*
+
+### [Semi-supervised Learning](#content)
+1. **On the Need for Time Series Data Mining Benchmarks: A Survey and Empirical Demonstration** 2002 [paper](https://www.cs.ucr.edu/~eamonn/Data_Mining_Journal_Keogh.pdf)
+
+   *EAMONN KEOGH, SHRUTI KASETTY*
+
+1. **Data Augmentation for Graph Neural Networks** AAAI 2021. [paper](https://arxiv.org/abs/2006.06830)
+
+   *Tong Zhao, Yozen Liu, Leonardo Neves, Oliver Woodford, Meng Jiang, Neil Shah*
+   
+1. **Positive Unlabeled Learning for Time Series Classification** IJCAI 2011. [paper](https://dl.acm.org/doi/10.5555/2283516.2283633)
+
+   *Minh Nhut Nguyen, Xiao-Li Li, See-Kiong Ng*
+   
+1. **NodeAug: Semi-Supervised Node Classification with Data Augmentation** KDD 2020. [ppaer](https://dl.acm.org/doi/abs/10.1145/3394486.3403063?casa_token=LgcXV1cQbaQAAAAA:zLs0yWDEdyL3VD4OkI_yCuOjDUNYMOucYSCSAAQ3TpXn5c5k-qkMQLRaNkc7pdTmp-12ZoIv0FHAdQ)
+
+   *Wang, Yiwei and Wang, Wei and Liang, Yuxuan and Cai, Yujun and Liu, Juncheng and Hooi, Bryan*
+
+1. **Semi-Supervised Time Series Classification** SIGKDD 2006. [paper](https://arxiv.org/abs/2102.03622)
+
+   *Jann Goschenhofer, Rasmus Hvingelby, David Rügamer, Janek Thomas, Moritz Wagner, Bernd Bischl*
+
+### [GCN](#content)
+1. **Progressive Graph Convolutional Networks for Semi-Supervised Node Classification** 2021 [paper](https://arxiv.org/abs/2003.12277)
+
+   *Negar Heidari, Alexandros Iosifidis*
+
+1. **SEMI-SUPERVISED CLASSIFICATION WITH GRAPH CONVOLUTIONAL NETWORKS** ICLR 2017. [ppaer](https://arxiv.org/abs/1609.02907)
+
+   *Thomas N. Kipf, Max Welling*
+   
+1. **Feature Selection and Extraction for Graph Neural Networks** acm 2020. [paper](https://dl.acm.org/doi/abs/10.1145/3374135.3385309?casa_token=C9lc0BQ5Q_oAAAAA:1nZCpG8pXabpFzcNOGQUqgIDtSVYVEKQC97IhUtb5iFAORROFKapD-ArpB_qdaICiNKibDWEcMKVDQ)
+
+   *Deepak Bhaskar Acharya, Huaming Zhang*
+   
+### [Few-shot Learning](#content)
+1. **Few-shot Human Motion Prediction via Learning Novel Motion Dynamics** IJCAI 2020. [paper](https://www.ijcai.org/proceedings/2020/118)
+
+   *Chuanqi Zang, Mingtao Pei, Yu Kong*
+   
+1. **OPTIMIZATION AS A MODEL FOR FEW-SHOT LEARNING** ICLR 2017. [paper](https://openreview.net/pdf?id=rJY0-Kcll)
+
+   *Sachin Ravi, Hugo Larochelle*
+
+### [Time Series Segmentation](#content)
+1. **ClaSP - Time Series Segmentation** CIKM 2021. [paper](https://dl.acm.org/doi/abs/10.1145/3459637.3482240)
+
+   *P Schäfer, A Ermshaus, U Leser*
+
+   
 ## [Courses](#content)
 ### [Online Courses](#content)
 1. **3Blue1Brown.** [link](https://www.3blue1brown.com/topics/neural-networks)
