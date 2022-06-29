@@ -11,6 +11,12 @@
 ## Time series classification
 1. Xuchao Zhang, Yifeng Gao, Jessica Lin, Chang-Tien Lu: <b>TapNet: Multivariate Time Series Classification with Attentional Prototypical Network</b>>. AAAI 2020 (https://xuczhang.github.io/papers/aaai20_tapnet.pdf)
 
+## Time series clustering
+1. Eamonn Keogh,Jessica Lin: Clustering of time-series subsequences is meaningless: implications for previous and future research.(https://link.springer.com/content/pdf/10.1007/s10115-004-0172-7.pdf) 
+
+## Time series segmentation
+1. Patrick Schäfer, Arik Ermshaus, Ulf Leser: ClaSP - Time Series Segmentation. (https://www2.informatik.hu-berlin.de/~schaefpa/clasp.pdf)
+
 ## Video analysis
 1. Yunbo Wang, Zhifeng Gao, Mingsheng Long, Jianmin Wang, Philip S Yu: <b>PredRNN++: Towards A Resolution of the Deep-in-Time Dilemma in Spatiotemporal Predictive Learning</b> Proceedings of Machine Learning Research (PMLR) 2008. (https://proceedings.mlr.press/v80/wang18b.html)
 
