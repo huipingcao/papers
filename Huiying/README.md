@@ -13,13 +13,13 @@ This repository maintains a list of materials that Huiying looks into.
 	<tr><td colspan="2">&emsp;&emsp;<a href="#Change-Point-Detection">Change Point Detection</a></td></tr>
 	<tr><td colspan="2">&emsp;&emsp;<a href="#Anomaly-Detection">Anomaly Detection</a></td></tr>
 	<tr><td colspan="2">&emsp;&emsp;<a href="#Data-Imputation">Data Imputation</a></td></tr>
-	<tr><td colspan="2">&emsp;&emsp;<a href="#Predictive-Learning">Predictive Learning </a></td></tr>
-	<tr><td colspan="2">&emsp;&emsp;<a href="#Transformer">Transformer</a></td></tr>
 
-<tr><td colspan="2">&emsp;<a href="#Un/Self-supervised-Learning">Un/Self-supervised Learning</a></td></tr>
+<tr><td colspan="2">&emsp;<a href="#Tabular-Data">Tabular Data</a></td></tr>
+	<tr><td colspan="2">&emsp;&emsp;<a href="#Tabular-Representation">Tabular Representation</a></td></tr>
+
+<tr><td colspan="2">&emsp;<a href="#Self-supervised-Learning">Self-supervised Learning</a></td></tr>
 <tr><td colspan="2">&emsp;<a href="#Knowledge-Distillation">Knowledge Distillation</a></td></tr>
 <tr><td colspan="2">&emsp;<a href="#Neural-Architecture-Search">Neural Architecture Search</a></td></tr>
-<tr><td colspan="2">&emsp;<a href="#Attention">Attention</a></td></tr>
 
 <tr><td colspan="2"><a href="#Notebooks">Notebooks </a></td></tr>
 <tr><td colspan="2"><a href="#Foundations-of-Deep-Learning">Foundations of Deep Learning </a></td></tr>
@@ -86,7 +86,7 @@ This repository maintains a list of materials that Huiying looks into.
 1. **Bayesian Online Changepoint Detection.** arXiv.stat.ML 2007. [paper](https://arxiv.org/abs/0710.3742)
     *Ryan Prescott Adams, David J.C. MacKay.*
 
-1. **Time Series Change Point Detection with Self-Supervised Contrastive Predictive Coding.** WWW'2021. [paper](https://arxiv.org/abs/2011.14097)
+1. **Time Series Change Point Detection with Self-Supervised Contrastive Predictive Coding.** WWW 2021. [paper](https://arxiv.org/abs/2011.14097)
     *Shohreh Deldari, Daniel V. Smith, Hao Xue, Flora D. Salim.*
     
 
@@ -109,7 +109,15 @@ Evaluation, and Open Challenges.** ACM 2020. [paper](https://kristiania.brage.un
     *Fanrong Meng.*
 
 
-#### [Un/Self-supervised Learning](#content)
+
+#### [Tabular Representation](#content) 
+
+1. **Learning Enhanced Representations for Tabular Data via Neighborhood Propagation.** arXiv preprint 2022. [paper](https://arxiv.org/pdf/2206.06587.pdf)
+    *Kounianhua Du, Weinan Zhang, Ruiwen Zhou, Yangkun Wang, Xilong Zhao, Jiarui Jin, Quan Gan, Zheng Zhang, David Wipf.*
+
+
+
+#### [Self-supervised Learning](#content)
 
 1. **Transfer Learning or Self-supervised Learning? A Tale of Two Pretraining Paradigms.** arXiv 2020. [paper](https://arxiv.org/abs/2007.04234)
     *Xingyi Yang, Xuehai He, Yuxiao Liang, Yue Yang, Shanghang Zhang, Pengtao Xie.*
@@ -137,9 +145,6 @@ Evaluation, and Open Challenges.** ACM 2020. [paper](https://kristiania.brage.un
 
 1. **Learning Lightweight Lane Detection CNNs by Self Attention Distillation.** arVix 2019. [paper](https://arxiv.org/abs/1908.00821)
     *Yuenan Hou, Zheng Ma, Chunxiao Liu, Chen Change Loy.*
-
-1. **Distilling BERT into Simple Neural Networks with Unlabeled Transfer Data.** arVix 2019. [paper](https://arxiv.org/abs/1910.01769)
-    *Subhabrata Mukherjee, Ahmed Hassan Awadallah.*
 
 1. **Distilling Task-Specific Knowledge from BERT into Simple Neural Networks.** arVix 2019. [paper](https://arxiv.org/abs/1903.12136)
     *Raphael Tang, Yao Lu, Linqing Liu, Lili Mou, Olga Vechtomova, Jimmy Lin.*
@@ -188,14 +193,6 @@ Evaluation, and Open Challenges.** ACM 2020. [paper](https://kristiania.brage.un
 1. **The Evolved Transformer.** ICML 2019. [paper](https://arxiv.org/abs/1901.11117)
     *David R. So, Chen Liang, Quoc V. Le.*
     
-
-#### [Attention](#content)
-
-1. **Attention Is All You Need.** NeurlPS 2017. [paper](https://arxiv.org/abs/1706.03762)
-    *Ashish Vaswani, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones, Aidan N. Gomez, Lukasz Kaiser, Illia Polosukhin.*
-    
-1. **Effective Approaches to Attention-based Neural Machine Translation.** ACL 2015. [paper](https://aclanthology.org/D15-1166/)
-    *Thang Luong, Hieu Pham, Christopher D. Manning.*
 
 
 ### [Notebooks](#content)
