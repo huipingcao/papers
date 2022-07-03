@@ -115,6 +115,10 @@ Evaluation, and Open Challenges.** ACM 2020. [paper](https://kristiania.brage.un
 1. **Learning Enhanced Representations for Tabular Data via Neighborhood Propagation.** arXiv preprint 2022. [paper](https://arxiv.org/pdf/2206.06587.pdf)
     *Kounianhua Du, Weinan Zhang, Ruiwen Zhou, Yangkun Wang, Xilong Zhao, Jiarui Jin, Quan Gan, Zheng Zhang, David Wipf.*
 
+1. **SubTab: Subsetting Features of Tabular Data for Self-Supervised Representation Learning.** NeurIPS 2021. [paper](https://github.com/AstraZeneca/SubTab/)
+    *Talip Ucar, Ehsan Hajiramezanali, Lindsay Edwards.*
+
+
 
 
 #### [Self-supervised Learning](#content)
