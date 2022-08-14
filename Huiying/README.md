@@ -8,19 +8,21 @@ This repository maintains a list of materials that Huiying looks into.
 <tr><td colspan="2">&emsp;<a href="#Graph-Data">Graph Data</a></td></tr>
 	<tr><td colspan="2">&emsp;&emsp;<a href="#Contrastive-Learning">Contrastive Learning</a></td></tr>
 	<tr><td colspan="2">&emsp;&emsp;<a href="#Pre-Training">Pre-Training</a></td></tr>
-	
+    <tr><td colspan="2">&emsp;&emsp;<a href="#Incorporating-Knowledge">Incorporating Knowledge</a></td></tr>
+<tr><td colspan="2">&emsp;<a href="#Tabular-Data">Tabular Data</a></td></tr>
+	<tr><td colspan="2">&emsp;&emsp;<a href="#Tabular-Representation">Tabular Representation</a></td></tr>
+    <tr><td colspan="2">&emsp;&emsp;<a href="#Incorporating-External-Knowledge">Incorporating External Knowledge</a></td></tr>
+<tr><td colspan="2">&emsp;<a href="#Factuality-and-Trustworthiness">Factuality and Trustworthiness</a></td></tr>
+	<tr><td colspan="2">&emsp;&emsp;<a href="#Fact-Checking">Fact-Checking</a></td></tr>
+    <tr><td colspan="2">&emsp;&emsp;<a href="#Evidence-Based">Evidence-Based</a></td></tr>
 <tr><td colspan="2">&emsp;<a href="#Sequential-Data">Sequential Data</a></td></tr>
 	<tr><td colspan="2">&emsp;&emsp;<a href="#Change-Point-Detection">Change Point Detection</a></td></tr>
 	<tr><td colspan="2">&emsp;&emsp;<a href="#Anomaly-Detection">Anomaly Detection</a></td></tr>
 	<tr><td colspan="2">&emsp;&emsp;<a href="#Data-Imputation">Data Imputation</a></td></tr>
-
-<tr><td colspan="2">&emsp;<a href="#Tabular-Data">Tabular Data</a></td></tr>
-	<tr><td colspan="2">&emsp;&emsp;<a href="#Tabular-Representation">Tabular Representation</a></td></tr>
-
 <tr><td colspan="2">&emsp;<a href="#Self-supervised-Learning">Self-supervised Learning</a></td></tr>
 <tr><td colspan="2">&emsp;<a href="#Knowledge-Distillation">Knowledge Distillation</a></td></tr>
+    <tr><td colspan="2">&emsp;&emsp;<a href="#Symbolic-Commonsense">Symbolic | Commonsense</a></td></tr>
 <tr><td colspan="2">&emsp;<a href="#Neural-Architecture-Search">Neural Architecture Search</a></td></tr>
-
 <tr><td colspan="2"><a href="#Notebooks">Notebooks </a></td></tr>
 <tr><td colspan="2"><a href="#Foundations-of-Deep-Learning">Foundations of Deep Learning </a></td></tr>
 <tr><td colspan="2"><a href="#Tools">Tools </a></td></tr>
@@ -28,9 +30,14 @@ This repository maintains a list of materials that Huiying looks into.
 <tr><td colspan="2"><a href="#People">People </a></td></tr>	
 </table>
 
+
+
+
+
 ### [Papers](#content)
 
-#### [Contrastive Learning](#content)
+#### [Graph Data](#content)
+##### [Contrastive Learning](#content)
 
 1. **Multi-Scale Contrastive Siamese Networks for Self-Supervised Graph Representation Learning.** IJCAI 2021. [paper](https://www.ijcai.org/proceedings/2021/0204.pdf) [code](https://github.com/GRAND-Lab/MERIT)
     *Yanqiao Zhu, Yichen Xu, Feng Yu, Qianq Liu, Shu Wu, Liang Wang.*
@@ -48,13 +55,217 @@ This repository maintains a list of materials that Huiying looks into.
     *Yilun Jin, Guojie Song, Chuan Shi.*
     
 
-#### [Pre-Training](#content)
+##### [Pre-Training](#content)
 
 1. **Strategies for Pre-training Graph Neural Networks.** ICLR 2020. [paper](https://arxiv.org/abs/1905.12265) [code](https://github.com/snap-stanford/pretrain-gnns)
     *Weihua Hu, Bowen Liu, Joseph Gomes, Marinka Zitnik, Percy Liang, Vijay Pande, Jure Leskovec.*    
-    
 
-#### [Data Imputation](#content)
+##### [Incorporating Knowledge](#content)
+
+1. **Augmenting Neural Networks with First-order Logic.** ACL 2019. [paper](https://aclanthology.org/P19-1028/) 
+   *Tao Li, Vivek Srikumar.*    
+
+
+
+
+#### [Tabular Data](#content)
+##### [Tabular Representation](#content) 
+
+1. **Learning Enhanced Representations for Tabular Data via Neighborhood Propagation.** arXiv preprint 2022. [paper](https://arxiv.org/pdf/2206.06587.pdf)
+   *Kounianhua Du, Weinan Zhang, Ruiwen Zhou, Yangkun Wang, Xilong Zhao, Jiarui Jin, Quan Gan, Zheng Zhang, David Wipf.*
+   
+1. **SubTab: Subsetting Features of Tabular Data for Self-Supervised Representation Learning.** NeurIPS 2021. [paper](https://github.com/AstraZeneca/SubTab/)
+   *Talip Ucar, Ehsan Hajiramezanali, Lindsay Edwards.*
+   
+1. **INFOTABS: Inference on Tables as Semi-structured Data.** ACL 2020. [paper](https://aclanthology.org/2020.acl-main.210/)
+
+   *Vivek Gupta, Maitrey Mehta, Pegah Nokhiz, Vivek Srikumar*
+
+##### [Incorporating External Knowledge](#content) 
+
+1. **Incorporating External Knowledge to Enhance Tabular Reasoning.** NAACL 2021. [paper](https://aclanthology.org/2021.naacl-main.224/)
+   *J. Neeraja, Vivek Gupta, Vivek Srikumar.*
+
+
+
+#### [Factuality and Trustworthiness](#content) 
+
+##### [Fact-Checking](#content) 
+
+1. **Generating Scientific Claims for Zero-Shot Scientific Fact Checking.** ACL 2022. [paper](https://aclanthology.org/2022.acl-long.175/)
+
+   *Dustin Wright, David Wadden, Kyle Lo, Bailey Kuehl, Arman Cohan, Isabelle Augenstein, Lucy Wang*.
+
+1. **An Experimental Study to Understand User Experience and Perception Bias Occurred by Fact-checking Messages**. WWW 2021. [paper](https://sci-hub.se/https://doi.org/10.1145/3442381.3450121)
+
+   *Sungkyu Park , Jamie Yejean Park , Hyojin Chin , Jeong-han Kang , Meeyoung Cha*.
+
+1. **Automated Fact-Checking for Assisting Human Fact-Checkers.** IJCAI 2021. [paper](https://www.ijcai.org/proceedings/2021/619)
+
+   *Preslav Nakov, David Corney, Maram Hasanain, Firoj Alam, Tamer Elsayed, Alberto Barrón-Cedeño, Paolo Papotti, Shaden Shaar, Giovanni Da San Martino.*
+
+1. **Multi-Hop Fact Checking of Political Claims.** IJCAI 2021. [paper](https://www.ijcai.org/proceedings/2021/0536)
+
+   *Wojciech Ostrowski, Arnav Arora, Pepa Atanasova, Isabelle Augenstein.*
+
+1. **Towards Few-shot Fact-Checking via Perplexity.** NAACL 2021. [paper](https://aclanthology.org/2021.naacl-main.158/)
+
+   *Nayeon Lee, Yejin Bang, Andrea Madotto, Pascale Fung.*
+
+1. **Improving Evidence Retrieval for Automated Explainable Fact-Checking.** NAACL 2021. [paper](https://aclanthology.org/2021.naacl-demos.10/)
+
+   *Chris Samarinas, Wynne Hsu, Mong Li Lee*
+
+1. **A Multi-Level Attention Model for Evidence-Based Fact Checking.** ACL/IJCNLP 2021. [paper](https://aclanthology.org/2021.findings-acl.217/)
+
+   *Canasai Kruengkrai, Junichi Yamagishi, Xin Wang.*
+
+1. **Joint Verification and Reranking for Open Fact Checking Over Tables.** ACL/IJCNLP 2021. [paper](https://aclanthology.org/2021.acl-long.529/)
+
+   *Michael Sejr Schlichtkrull, Vladimir Karpukhin, Barlas Oguz, Mike Lewis, Wen-tau Yih, Sebastian Riedel.*
+
+1. **Strong and Light Baseline Models for Fact-Checking Joint Inference.** ACL/IJCNLP 2021. [paper](https://aclanthology.org/2021.findings-acl.426/)
+
+   *Kateryna Tymoshenko, Alessandro Moschitti.*
+
+1. **FACE-KEG: Fact Checking Explained using KnowledgE Graphs. ** WSDM 2021. [paper](https://dl.acm.org/doi/10.1145/3437963.3441828)
+
+   *Nikhita Vedula , Srinivasan Parthasarathy.*
+
+1. **Factoring Fact-Checks: Structured Information Extraction from Fact-Checking Articles**. WWW 2020. [paper](https://sci-hub.se/https://doi.org/10.1145/3366423.3380231)
+
+   *Shan Jiang , Simon Baumgartner , Abe Ittycheriah , Cong Yu.*
+
+1. **Generating Fact Checking Explanations.** ACL 2020. [paper](https://aclanthology.org/2020.acl-main.656/)
+
+   *Pepa Atanasova, Jakob Grue Simonsen, Christina Lioma, Isabelle Augenstein*.
+
+1. **DeSePtion: Dual Sequence Prediction and Adversarial Examples for Improved Fact-Checking.** ACL 2020. [paper](https://aclanthology.org/2020.acl-main.761/)
+
+   *Christopher Hidey, Tuhin Chakrabarty, Tariq Alhindi, Siddharth Varia, Kriste Krstovski, Mona Diab, Smaranda Muresan.*
+
+1. **LogicalFactChecker: Leveraging Logical Operations for Fact Checking with Graph Module Network.** ACL 2020. [paper](https://aclanthology.org/2020.acl-main.539/)
+
+   *Wanjun Zhong, Duyu Tang, Zhangyin Feng, Nan Duan, Ming Zhou, Ming Gong, Linjun Shou, Daxin Jiang, Jiahai Wang, Jian Yin*.
+
+1. **Reasoning Over Semantic-Level Graph for Fact Checking.** ACL 2020. [paper](https://aclanthology.org/2020.acl-main.549/)
+
+   *Wanjun Zhong, Jingjing Xu, Duyu Tang, Zenan Xu, Nan Duan, Ming Zhou, Jiahai Wang, Jian Yin.*
+
+1. **Cracking Tabular Presentation Diversity for Automatic Cross-Checking over Numerical Facts.** KDD 2020. [paper](https://dl.acm.org/doi/10.1145/3394486.3403310)
+
+   *Hongwei Li , Qingping Yang , Yixuan Cao , Jiaquan Yao , Ping Luo*
+
+1. **Explainable Automated Fact-Checking for Public Health Claims.** EMNLP 2020. [paper](https://aclanthology.org/2020.emnlp-main.623/)
+
+   *Neema Kotonya, Francesca Toni.*
+
+1. **Generating Fact Checking Briefs.** EMNLP 2020. [paper](https://aclanthology.org/2020.emnlp-main.580/)
+
+    *Angela Fan, Aleksandra Piktus, Fabio Petroni, Guillaume Wenzek, Marzieh Saeidi, Andreas Vlachos, Antoine Bordes, Sebastian Riedel.*
+
+1. **AnswerFact: Fact Checking in Product Question Answering.** EMNLP 2020. [paper](https://aclanthology.org/2020.emnlp-main.188/)
+
+    *Wenxuan Zhang, Yang Deng, Jing Ma, Wai Lam.*
+
+1. **FactCatch: Incremental Pay-as-You-Go Fact Checking with Minimal User Effort.** SIGIR 2020. [paper](https://sci-hub.se/https://doi.org/10.1145/3397271.3401408)
+
+    *Thanh Tam Nguyen , Matthias Weidlich , Hongzhi Yin , Bolong Zheng , Quang Huy Nguyen , Quoc Viet Hung Nguyen.*
+
+1. **Scrutinizer: Fact Checking Statistical Claims**. VLDB 2020. [paper](http://www.vldb.org/pvldb/vol13/p2965-karagiannis.pdf)
+
+    *Georgios Karagiannis , Mohammed Saeed , Paolo Papotti , Immanuel Trummer.*
+
+1. **Buckle: Evaluating Fact Checking Algorithms Built on Knowledge Bases**. VLDB 2019. [paper](http://www.vldb.org/pvldb/vol12/p1798-huynh.pdf)
+
+    *Viet-Phi Huynh , Paolo Papotti.*
+
+1. **Mining an "Anti-Knowledge Base" from Wikipedia Updates with Applications to Fact Checking and Beyond**. VLDB 2019. [paper](http://www.vldb.org/pvldb/vol13/p561-karagiannis.pdf)
+
+    *Georgios Karagiannis , Immanuel Trummer , Saehan Jo , Shubham Khandelwal , Xuezhi Wang , Cong Yu.*
+
+1. **User Guidance for Efficient Fact Checking**. VLDB 2019. [paper](http://www.vldb.org/pvldb/vol12/p850-nguyen.pdf)
+
+    *Thanh Tam Nguyen , Matthias Weidlich , Hongzhi Yin , Bolong Zheng , Quoc Viet Hung Nguyen , Bela Stantic*.
+
+1. **A Benchmark for Fact Checking Algorithms Built on Knowledge Bases.** CIKM 2019. [paper](https://sci-hub.se/https://doi.org/10.1145/3357384.3358036)
+
+    *Viet-Phi Huynh , Paolo Papotti.*
+
+1. **Attributed Multi-Relational Attention Network for Fact-checking URL Recommendation.** CIKM 2019. [paper](https://dl.acm.org/doi/10.1145/3357384.3358006)
+
+    *Di You , Nguyen Vo , Kyumin Lee , Qiang LIU.*
+
+1. **Evidence-based Trustworthiness.** ACL 2019. [paper](https://aclanthology.org/P19-1040.pdf)
+    *Yi Zhang, Zachary G. Ives, Dan Roth, Department of Computer and Information Science University of Pennsylvania.*
+    
+1. **Towards a Benchmark for Fact Checking with Knowledge Bases**. WWW 2018. [paper](https://dl.acm.org/doi/10.1145/3184558.3191616)
+
+    *Viet-Phi Huynh , Paolo Papotti*.
+
+1. **Fact Checking via Evidence Patterns.** IJCAI 2018. [paper](https://www.ijcai.org/proceedings/2018/522)
+
+   *Valeria Fionda, Giuseppe Pirrò.*
+
+1. **Fact Checking in Community Forums.** AAAI 2018. [paper](https://dl.acm.org/doi/abs/10.5555/3504035.3504686)
+
+   *Tsvetomila Mihaylova , Preslav Nakov , Lluís Màrquez , Alberto Barrón-Cedeño , Mitra Mohtarami , Georgi Karadzhov , James Glass.*
+
+1. **An Interpretable Joint Graphical Model for Fact-Checking From Crowd.** AAAI 2018. [paper](https://www.byronwallace.com/static/articles/nguyen-aaai18.pdf)
+
+   *An Nguyen, Aditya Kharosekar, Matthew Lease, Byron Wallace.*
+
+1. **The Rise of Guardians: Fact-checking URL Recommendation to Combat Fake News.** SIGIR 2018. [paper](https://dl.acm.org/doi/10.1145/3209978.3210037)
+
+   *Nguyen Vo , Kyumin Lee.*
+
+1. **Truth of Varying Shades: Analyzing Language in Fake News and Political Fact-Checking.** EMNLP 2017. [paper](https://aclanthology.org/D17-1317/)
+
+   *Hannah Rashkin, Eunsol Choi, Jin Yea Jang, Svitlana Volkova, Yejin Choi.*
+
+1. **Fact Checking in Heterogeneous Information Networks**. WWW 2016. [paper](https://dl.acm.org/doi/10.1145/2872518.2889354)
+
+   *Baoxu Shi , Tim Weninger*.
+
+1. **Fact-checking Effect on Viral Hoaxes: A Model of Misinformation Spread in Social Networks**. WWW 2015. [paper](https://sci-hub.se/https://doi.org/10.1145/2740908.2742572)
+
+   *Marcella Tambuscio , Giancarlo Ruffo , Alessandro Flammini , Filippo Menczer.*
+
+###### System
+
+1. **FAKTA: An Automatic End-to-End Fact Checking System.** NAACL 2019. [paper](https://aclanthology.org/N19-4014/)
+
+   *Moin Nadeem, Wei Fang, Brian Xu, Mitra Mohtarami, James Glass.*
+
+1. **AggChecker: A Fact-Checking System for Text Summaries of Relational Data Sets**. VLDB 2019. [paper](http://www.vldb.org/pvldb/vol12/p1938-jo.pdf)
+
+   *Saehan Jo , Immanuel Trummer , Weicheng Yu , Xuezhi Wang , Cong Yu , Daniel Liu , Niyati Mehta*.
+
+1. **ClaimBuster: The First-ever End-to-end Fact-checking System**. VLDB 2017. [paper](http://www.vldb.org/pvldb/vol10/p1945-li.pdf)
+
+   *Naeemul Hassan , Gensheng Zhang , Fatma Arslan , Josue Caraballo , Damian Jimenez.*
+
+1. **Toward Automated Fact-Checking: Detecting Check-worthy Factual Claims by ClaimBuster.** KDD 2017. [paper](https://dl.acm.org/doi/10.1145/3097983.3098131)
+
+   *Naeemul Hassan , Fatma Arslan , Chengkai Li , Mark Tremayne*
+
+###### Dataset
+
+1. **MultiFC: A Real-World Multi-Domain Dataset for Evidence-Based Fact Checking of Claims.** EMNLP/IJCNLP 2019. [paper](https://aclanthology.org/D19-1475/)
+
+   *Isabelle Augenstein, Christina Lioma, Dongsheng Wang, Lucas Chaves Lima, Casper Hansen, Christian Hansen, Jakob Grue Simonsen.*
+
+##### [Evidence-Based](#content) 
+
+1. **Is My Model Using the Right Evidence? Systematic Probes for Examining Evidence-Based Tabular Reasoning.** ACL 2022. [paper](https://aclanthology.org/2022.tacl-1.38/)
+
+   *Vivek Gupta, Riyaz A. Bhat, Atreya Ghosal, Manish Shrivastava, Maneesh Singh, Vivek Srikumar.*
+
+
+
+
+#### [Sequential Data](#content)
+##### [Data Imputation](#content)
 
 1. **FILLING THE G AP S: MULTIVARIATE TIME SERIES IMPUTATION BY GRAPH NEURAL NETWORKS.** ICLR 2022. [paper](https://arxiv.org/pdf/2108.00298.pdf)
     *Andrea Cini, Ivan Marisca, Cesare Alippi.*
@@ -75,7 +286,7 @@ This repository maintains a list of materials that Huiying looks into.
     *Xiuwen Yi, Yu Zheng, Junbo Zhang, Tianrui Li.*
     
 
-#### [Change Point Detection](#content)
+##### [Change Point Detection](#content)
 
 1. **An Evaluation of Change Point Detection Algorithms.** arXiv.stat.ML 2020. [paper](https://arxiv.org/abs/2003.06222)
     *Gerrit J.J. van den Burg, Christopher K.I. Williams.*
@@ -90,7 +301,7 @@ This repository maintains a list of materials that Huiying looks into.
     *Shohreh Deldari, Daniel V. Smith, Hao Xue, Flora D. Salim.*
     
 
-#### [Anomaly Detection](#content)
+##### [Anomaly Detection](#content)
 
 1. **Real-Time Anomaly Detection for Streaming Analytics.** arXiv 2016. [paper](https://arxiv.org/pdf/1607.02480.pdf)
     *Subutai Ahmad, Scott Purdy.*
@@ -110,21 +321,11 @@ Evaluation, and Open Challenges.** ACM 2020. [paper](https://kristiania.brage.un
 
 
 
-#### [Tabular Representation](#content) 
-
-1. **Learning Enhanced Representations for Tabular Data via Neighborhood Propagation.** arXiv preprint 2022. [paper](https://arxiv.org/pdf/2206.06587.pdf)
-    *Kounianhua Du, Weinan Zhang, Ruiwen Zhou, Yangkun Wang, Xilong Zhao, Jiarui Jin, Quan Gan, Zheng Zhang, David Wipf.*
-
-1. **SubTab: Subsetting Features of Tabular Data for Self-Supervised Representation Learning.** NeurIPS 2021. [paper](https://github.com/AstraZeneca/SubTab/)
-    *Talip Ucar, Ehsan Hajiramezanali, Lindsay Edwards.*
-
-
-
-
 #### [Self-supervised Learning](#content)
 
 1. **Transfer Learning or Self-supervised Learning? A Tale of Two Pretraining Paradigms.** arXiv 2020. [paper](https://arxiv.org/abs/2007.04234)
     *Xingyi Yang, Xuehai He, Yuxiao Liang, Yue Yang, Shanghang Zhang, Pengtao Xie.*
+
 
 
 #### [Knowledge Distillation](#content)
@@ -165,6 +366,13 @@ Evaluation, and Open Challenges.** ACM 2020. [paper](https://kristiania.brage.un
 1. **Sequence-Level Knowledge Distillation.** IEEE 2016. [paper](https://arxiv.org/abs/1606.07947)
     *Yoon Kim, Alexander M. Rush.*
 
+[Symbolic | Commonsense](#content)
+
+1. **Symbolic Knowledge Distillation: from General Language Models to Commonsense Models.** NAACL 2022. [paper](https://aclanthology.org/2022.naacl-main.341/)
+   *Peter West, Chandra Bhagavatula, Jack Hessel, Jena Hwang, Liwei Jiang, Ronan Le Bras, Ximing Lu, Sean Welleck, Yejin Choi.*
+
+
+
 #### [Neural Architecture Search](#content)
 
 1. **Neural Architecture Search: A Survey.** JMLR 2019. [paper](https://www.jmlr.org/papers/volume20/18-598/18-598.pdf)
@@ -183,6 +391,7 @@ Evaluation, and Open Challenges.** ACM 2020. [paper](https://kristiania.brage.un
     *Li'an Zhuo, Baochang Zhang, Hanlin Chen, Linlin Yang, Chen Chen, Yanjun Zhu, David Doermann.*
     
 
+
 #### [Transformer](#content)
 
 1. **Efficient Transformers: A Survey.** arVix 2020. [paper](https://arxiv.org/abs/2009.06732)
@@ -196,7 +405,7 @@ Evaluation, and Open Challenges.** ACM 2020. [paper](https://kristiania.brage.un
 
 1. **The Evolved Transformer.** ICML 2019. [paper](https://arxiv.org/abs/1901.11117)
     *David R. So, Chen Liang, Quoc V. Le.*
-    
+
 
 
 ### [Notebooks](#content)
@@ -205,7 +414,6 @@ Evaluation, and Open Challenges.** ACM 2020. [paper](https://kristiania.brage.un
 1. **Trajectory Outlier Detection.**  [link](https://docs.google.com/document/d/1DlQEsF-5l1OMhmflhH29dJ3wL3DEzEWVExxA56admVI/edit?usp=sharing) For USDA Animal Science Project
 1. **Literature Review - Animal Movement with ML.**  [link](https://docs.google.com/document/d/17o5uYJmBdvni6CwfIFJPWchNGcRxGleY18i2HGaXu1c/edit?usp=sharing) 
 1. **Contrastive Learning.**  [link](https://docs.google.com/document/d/1MtjsTzu7uTvWnZ8rZ11P6_RemtZE59vlg-ISzMKGYb8/edit?usp=sharing)
-
 
 ### [Foundations of Deep Learning](#content)
 
