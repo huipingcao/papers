@@ -4,7 +4,7 @@ This repository maintains a list of materials that Huiying looks into.
 ## [Content](#content)
 
 <table>
-<tr><td colspan="2"><a href="#Papers">Papers </a></td></tr>
+<tr><td colspan="2"><a href="#Topics">Topics</a></td></tr>
 <tr><td colspan="2">&emsp;<a href="#Graph-Data">Graph Data</a></td></tr>
 	<tr><td colspan="2">&emsp;&emsp;<a href="#Contrastive-Learning">Contrastive Learning</a></td></tr>
 	<tr><td colspan="2">&emsp;&emsp;<a href="#Pre-Training">Pre-Training</a></td></tr>
@@ -12,13 +12,13 @@ This repository maintains a list of materials that Huiying looks into.
 <tr><td colspan="2">&emsp;<a href="#Tabular-Data">Tabular Data</a></td></tr>
 	<tr><td colspan="2">&emsp;&emsp;<a href="#Tabular-Representation">Tabular Representation</a></td></tr>
     <tr><td colspan="2">&emsp;&emsp;<a href="#Incorporating-External-Knowledge">Incorporating External Knowledge</a></td></tr>
-<tr><td colspan="2">&emsp;<a href="#Factuality-and-Trustworthiness">Factuality and Trustworthiness</a></td></tr>
+<tr><td colspan="2">&emsp;<a href="#Information-Retrieval-and-the-Web">Information Retrieval and the Web</a></td></tr>
 	<tr><td colspan="2">&emsp;&emsp;<a href="#Fact-Checking">Fact-Checking</a></td></tr>
     <tr><td colspan="2">&emsp;&emsp;<a href="#Evidence-Based">Evidence-Based</a></td></tr>
 <tr><td colspan="2">&emsp;<a href="#Sequential-Data">Sequential Data</a></td></tr>
-	<tr><td colspan="2">&emsp;&emsp;<a href="#Change-Point-Detection">Change Point Detection</a></td></tr>
-	<tr><td colspan="2">&emsp;&emsp;<a href="#Anomaly-Detection">Anomaly Detection</a></td></tr>
 	<tr><td colspan="2">&emsp;&emsp;<a href="#Data-Imputation">Data Imputation</a></td></tr>
+    <tr><td colspan="2">&emsp;&emsp;<a href="#Change-Point-Detection">Change Point Detection</a></td></tr>
+	<tr><td colspan="2">&emsp;&emsp;<a href="#Anomaly-Detection">Anomaly Detection</a></td></tr>
 <tr><td colspan="2">&emsp;<a href="#Self-supervised-Learning">Self-supervised Learning</a></td></tr>
 <tr><td colspan="2">&emsp;<a href="#Knowledge-Distillation">Knowledge Distillation</a></td></tr>
     <tr><td colspan="2">&emsp;&emsp;<a href="#Symbolic-Commonsense">Symbolic | Commonsense</a></td></tr>
@@ -28,7 +28,6 @@ This repository maintains a list of materials that Huiying looks into.
 <tr><td colspan="2"><a href="#Foundations-of-Deep-Learning">Foundations of Deep Learning </a></td></tr>
 <tr><td colspan="2"><a href="#Tools">Tools </a></td></tr>
 <tr><td colspan="2"><a href="#Resources">Resources </a></td></tr>
-<tr><td colspan="2"><a href="#People">People </a></td></tr>	
 </table>
 
 
@@ -36,26 +35,29 @@ This repository maintains a list of materials that Huiying looks into.
 
 
 
-### [Papers](#content)
+
+### [Topics](#content)
 
 #### [Graph Data](#content)
 ##### [Contrastive Learning](#content)
 
 1. **Multi-Scale Contrastive Siamese Networks for Self-Supervised Graph Representation Learning.** IJCAI 2021. [paper](https://www.ijcai.org/proceedings/2021/0204.pdf) [code](https://github.com/GRAND-Lab/MERIT)
     *Yanqiao Zhu, Yichen Xu, Feng Yu, Qianq Liu, Shu Wu, Liang Wang.*
-
 1. **Deep Graph Contrastive Representation Learning.** ICML 2020. [paper](https://arxiv.org/abs/2006.04131v2) [code](https://github.com/CRIPAC-DIG/GRACE)
     *Yanqiao Zhu, Yichen Xu, Feng Yu, Qianq Liu, Shu Wu, Liang Wang.*
-
 1. **Graph Contrastive Learning with Augmentation.**  NeurIPS 2020. [paper](https://arxiv.org/abs/2010.13902) [code](https://github.com/Shen-Lab/GraphCL)
     *Yuning You, Tianlong Chen, Yongduo Sui, Ting Chen, Zhangyang Wang, Yang Shen.*
-    
 1. **GCC: Graph Contrastive Coding for Graph Neural Network Pre-Training.**  KDD 2020. [paper](https://arxiv.org/abs/2006.09963) [code](https://github.com/THUDM/GCC)
     *Jiezhong Qiu, Qibin Chen, Yuxiao Dong, Jing Zhang, Hongxia Yang, Ming Ding, Kuansan Wang, Jie Tang.*
-    
 1. **GraLSP: Graph Neural Networks with Local Structural Patterns.**  AAAI 2020. [paper](https://arxiv.org/abs/1911.07675) [code](https://github.com/KL4805/GraLSP)
     *Yilun Jin, Guojie Song, Chuan Shi.*
-    
+
+###### People
+
+1. **Ming Jin (GRAND Lab at Monash University).** [google-scholar](https://scholar.google.com/citations?hl=en&user=I2xvKaIAAAAJ) [profile](https://kimmeen.github.io/)	
+1. **Prof. Shirui Pan (GRAND Lab at Monash University).** [google-scholar](https://scholar.google.com.au/citations?hl=en&user=frWRJN4AAAAJ&view_op=list_works&sortby=pubdate) [profile](https://shiruipan.github.io/)	
+1. **Yuning You (Shen Lab at Texas A&M University).** [google-scholar](https://scholar.google.com/citations?user=KEwC1N8AAAAJ&hl=en) [profile](https://yyou1996.github.io/publications/)
+1. **Yanqiao Zhu (Institute of Automation, Chinese Academy of Sciences).** [google-scholar](https://scholar.google.com/citations?hl=en&user=NBbJT3AAAAAJ) [profile](https://sxkdz.github.io/)
 
 ##### [Pre-Training](#content)
 
@@ -90,9 +92,41 @@ This repository maintains a list of materials that Huiying looks into.
 
 
 
-#### [Factuality and Trustworthiness](#content) 
+#### [Information Retrieval and the Web](#content) 
 
-##### [Fact-Checking](#content) 
+##### ※ [Fact-Checking](#content) [(paperwithcode)](https://paperswithcode.com/task/fact-checking)
+
+###### Survey
+
+1. ※ **A Survey on Automated Fact-Checking.** TACL 2022. [github](https://github.com/Cartus/Automated-Fact-Checking-Resources)
+
+   *Zhijiang Guo, Michael Schlichtkrull, Andreas Vlachos.*
+
+2. **Explainable Fact Checking: A Survey.** ICML 2020. [github](https://github.com/neemakot/Fact-Checking-Survey)
+
+   *Kotonya Neema,  Toni Francesca.*
+
+###### Lab
+
+1. **Google Research.** [link](https://research.google/research-areas/information-retrieval-and-the-web/)
+
+   1. ※ **(Information Retrieval and the Web) Factoring Fact-Checks: Structured Information Extraction from Fact-Checking Articles**. WWW 2020. [paper](https://sci-hub.se/https://doi.org/10.1145/3366423.3380231)
+
+      *Shan Jiang , Simon Baumgartner , Abe Ittycheriah , Cong Yu.*
+
+   2. ※ **(Data Mining and Modeling) Mining an "Anti-Knowledge Base" from Wikipedia Updates with Applications to Fact Checking and Beyond.** VLDB 2019. [paper](http://www.vldb.org/pvldb/vol13/p561-karagiannis.pdf)
+
+      *Georgios Karagiannis , Immanuel Trummer , Saehan Jo , Shubham Khandelwal , Xuezhi Wang , Cong Yu.*
+
+2. **Max Planck Institute for Informatics, Germany.** [link](https://www.mpi-inf.mpg.de/departments/databases-and-information-systems/research)
+
+   *Knowledge Harvesting, Text+Time Search and Analytics, Knowledge Base Construction and Quality, Searching, Mining, and Learning with Informal Text*.
+
+   1. ※ **ExFaKT: A Framework for Explaining Facts over Knowledge Graphs and Text.** WSDM 2019. [paper](https://dariastepanova.github.io/files/conferences/WSDM2019/paper/WSDM2019paper.pdf) [code](https://github.com/mhmgad/ExFaKT)
+
+      *Mohamed Gad-Elrab, Daria Stepanova, Jacopo Urbani, Gerhard Weikum.*
+
+###### Paper
 
 1. **Generating Scientific Claims for Zero-Shot Scientific Fact Checking.** ACL 2022. [paper](https://aclanthology.org/2022.acl-long.175/)
 
@@ -114,10 +148,6 @@ This repository maintains a list of materials that Huiying looks into.
 
    *Nayeon Lee, Yejin Bang, Andrea Madotto, Pascale Fung.*
 
-1. **Improving Evidence Retrieval for Automated Explainable Fact-Checking.** NAACL 2021. [paper](https://aclanthology.org/2021.naacl-demos.10/)
-
-   *Chris Samarinas, Wynne Hsu, Mong Li Lee*
-
 1. **A Multi-Level Attention Model for Evidence-Based Fact Checking.** ACL/IJCNLP 2021. [paper](https://aclanthology.org/2021.findings-acl.217/)
 
    *Canasai Kruengkrai, Junichi Yamagishi, Xin Wang.*
@@ -133,10 +163,6 @@ This repository maintains a list of materials that Huiying looks into.
 1. **FACE-KEG: Fact Checking Explained using KnowledgE Graphs.** WSDM 2021. [paper](https://dl.acm.org/doi/10.1145/3437963.3441828)
 
    *Nikhita Vedula , Srinivasan Parthasarathy.*
-
-1. **Factoring Fact-Checks: Structured Information Extraction from Fact-Checking Articles**. WWW 2020. [paper](https://sci-hub.se/https://doi.org/10.1145/3366423.3380231)
-
-   *Shan Jiang , Simon Baumgartner , Abe Ittycheriah , Cong Yu.*
 
 1. **Generating Fact Checking Explanations.** ACL 2020. [paper](https://aclanthology.org/2020.acl-main.656/)
 
@@ -162,37 +188,17 @@ This repository maintains a list of materials that Huiying looks into.
 
    *Neema Kotonya, Francesca Toni.*
 
-1. **Generating Fact Checking Briefs.** EMNLP 2020. [paper](https://aclanthology.org/2020.emnlp-main.580/)
+1. ~~**(QA) Generating Fact Checking Briefs.** EMNLP 2020. [paper](https://aclanthology.org/2020.emnlp-main.580/)~~
 
-    *Angela Fan, Aleksandra Piktus, Fabio Petroni, Guillaume Wenzek, Marzieh Saeidi, Andreas Vlachos, Antoine Bordes, Sebastian Riedel.*
+    ~~*Angela Fan, Aleksandra Piktus, Fabio Petroni, Guillaume Wenzek, Marzieh Saeidi, Andreas Vlachos, Antoine Bordes, Sebastian Riedel.*~~
 
-1. **AnswerFact: Fact Checking in Product Question Answering.** EMNLP 2020. [paper](https://aclanthology.org/2020.emnlp-main.188/)
+1. ~~**(QA) AnswerFact: Fact Checking in Product Question Answering.** EMNLP 2020. [paper](https://aclanthology.org/2020.emnlp-main.188/)~~
 
-    *Wenxuan Zhang, Yang Deng, Jing Ma, Wai Lam.*
+    ~~*Wenxuan Zhang, Yang Deng, Jing Ma, Wai Lam.*~~
 
-1. **FactCatch: Incremental Pay-as-You-Go Fact Checking with Minimal User Effort.** SIGIR 2020. [paper](https://sci-hub.se/https://doi.org/10.1145/3397271.3401408)
+1. ~~**User Guidance for Efficient Fact Checking**. VLDB 2019. [paper](http://www.vldb.org/pvldb/vol12/p850-nguyen.pdf)~~
 
-    *Thanh Tam Nguyen , Matthias Weidlich , Hongzhi Yin , Bolong Zheng , Quang Huy Nguyen , Quoc Viet Hung Nguyen.*
-
-1. **Scrutinizer: Fact Checking Statistical Claims**. VLDB 2020. [paper](http://www.vldb.org/pvldb/vol13/p2965-karagiannis.pdf)
-
-    *Georgios Karagiannis , Mohammed Saeed , Paolo Papotti , Immanuel Trummer.*
-
-1. **Buckle: Evaluating Fact Checking Algorithms Built on Knowledge Bases**. VLDB 2019. [paper](http://www.vldb.org/pvldb/vol12/p1798-huynh.pdf)
-
-    *Viet-Phi Huynh , Paolo Papotti.*
-
-1. **Mining an "Anti-Knowledge Base" from Wikipedia Updates with Applications to Fact Checking and Beyond**. VLDB 2019. [paper](http://www.vldb.org/pvldb/vol13/p561-karagiannis.pdf)
-
-    *Georgios Karagiannis , Immanuel Trummer , Saehan Jo , Shubham Khandelwal , Xuezhi Wang , Cong Yu.*
-
-1. **User Guidance for Efficient Fact Checking**. VLDB 2019. [paper](http://www.vldb.org/pvldb/vol12/p850-nguyen.pdf)
-
-    *Thanh Tam Nguyen , Matthias Weidlich , Hongzhi Yin , Bolong Zheng , Quoc Viet Hung Nguyen , Bela Stantic*.
-
-1. **A Benchmark for Fact Checking Algorithms Built on Knowledge Bases.** CIKM 2019. [paper](https://sci-hub.se/https://doi.org/10.1145/3357384.3358036)
-
-    *Viet-Phi Huynh , Paolo Papotti.*
+    ~~*Thanh Tam Nguyen , Matthias Weidlich , Hongzhi Yin , Bolong Zheng , Quoc Viet Hung Nguyen , Bela Stantic*.~~
 
 1. **Attributed Multi-Relational Attention Network for Fact-checking URL Recommendation.** CIKM 2019. [paper](https://dl.acm.org/doi/10.1145/3357384.3358006)
 
@@ -202,17 +208,17 @@ This repository maintains a list of materials that Huiying looks into.
    
     *Yi Zhang, Zachary G. Ives, Dan Roth, Department of Computer and Information Science University of Pennsylvania.*
     
-1. **Towards a Benchmark for Fact Checking with Knowledge Bases**. WWW 2018. [paper](https://dl.acm.org/doi/10.1145/3184558.3191616)
+1. **ClaimsKG: A Knowledge Graph of Fact-Checked Claims.** [paper](http://users.ics.forth.gr/~fafalios/files/pubs/ISWC2019_ClaimsKG.pdf)
 
-    *Viet-Phi Huynh , Paolo Papotti*.
+   *Andon Tchechmedjiev, Pavlos Fafalios, Katarina Boland, Malo Gasquet, Matthäus Zloch, Benjamin Zapilko, Stefan Dietze & Konstantin Todorov.*
 
 1. **Fact Checking via Evidence Patterns.** IJCAI 2018. [paper](https://www.ijcai.org/proceedings/2018/522)
 
    *Valeria Fionda, Giuseppe Pirrò.*
 
-1. **Fact Checking in Community Forums.** AAAI 2018. [paper](https://dl.acm.org/doi/abs/10.5555/3504035.3504686)
+1. ~~**Fact Checking in Community Forums.** AAAI 2018. [paper](https://dl.acm.org/doi/abs/10.5555/3504035.3504686) [code](https://github.com/qcri/QLFactChecking)~~
 
-   *Tsvetomila Mihaylova , Preslav Nakov , Lluís Màrquez , Alberto Barrón-Cedeño , Mitra Mohtarami , Georgi Karadzhov , James Glass.*
+   ~~*Tsvetomila Mihaylova , Preslav Nakov , Lluís Màrquez , Alberto Barrón-Cedeño , Mitra Mohtarami , Georgi Karadzhov , James Glass.*~~
 
 1. **An Interpretable Joint Graphical Model for Fact-Checking From Crowd.** AAAI 2018. [paper](https://www.byronwallace.com/static/articles/nguyen-aaai18.pdf)
 
@@ -234,7 +240,25 @@ This repository maintains a list of materials that Huiying looks into.
 
    *Marcella Tambuscio , Giancarlo Ruffo , Alessandro Flammini , Filippo Menczer.*
 
+###### Benchmark
+
+1. **A Benchmark for Fact Checking Algorithms Built on Knowledge Bases.** WWW 2018/CIKM 2019/VLDB 2019. [paper](https://sci-hub.se/https://doi.org/10.1145/3357384.3358036) [code](https://github.com/huynhvp/Benchmark_Fact_Checking)
+
+   *Viet-Phi Huynh , Paolo Papotti.*
+
 ###### System
+
+1. **Quin+: Improving Evidence Retrieval for Automated Explainable Fact-Checking.** NAACL 2021. [paper](https://aclanthology.org/2021.naacl-demos.10/)
+
+   *Chris Samarinas, Wynne Hsu, Mong Li Lee*
+
+1. ~~**Scrutinizer: Fact Checking Statistical Claims**. VLDB 2020. [paper](http://www.vldb.org/pvldb/vol13/p2965-karagiannis.pdf)~~
+
+   ~~*Georgios Karagiannis , Mohammed Saeed , Paolo Papotti , Immanuel Trummer.*~~
+
+1. ~~**FactCatch: Incremental Pay-as-You-Go Fact Checking with Minimal User Effort.** SIGIR 2020. [paper](https://sci-hub.se/https://doi.org/10.1145/3397271.3401408)~~
+
+   ~~*Thanh Tam Nguyen , Matthias Weidlich , Hongzhi Yin , Bolong Zheng , Quang Huy Nguyen , Quoc Viet Hung Nguyen.*~~
 
 1. **FAKTA: An Automatic End-to-End Fact Checking System.** NAACL 2019. [paper](https://aclanthology.org/N19-4014/)
 
@@ -378,7 +402,7 @@ Evaluation, and Open Challenges.** ACM 2020. [paper](https://kristiania.brage.un
 
 
 
-#### [Knowledge Engine](#Content)
+#### ※ [Knowledge Engine](#Content)
 
 1. **HAKE: Human Activity Knowledge Engine.** CVPR'18/19/20, NeurIPS'20, TPAMI'21. [github](https://github.com/DirtyHarryLYL/HAKE)
    *Shanghai Jiao Tong University.*
@@ -472,16 +496,6 @@ Evaluation, and Open Challenges.** ACM 2020. [paper](https://kristiania.brage.un
 ### [Resources](#content)
 
 1. **Tiingo - A Reliable, Enterprise-Grade Financial Markets API.**  [link](https://api.tiingo.com/)
-
-
-### [People](#content)
-1. **Graph Representation Learning - Constrastive Learning.**
-	1. **Ming Jin (GRAND Lab at Monash University).** [google-scholar](https://scholar.google.com/citations?hl=en&user=I2xvKaIAAAAJ) [profile](https://kimmeen.github.io/)	
-	1. **Prof. Shirui Pan (GRAND Lab at Monash University).** [google-scholar](https://scholar.google.com.au/citations?hl=en&user=frWRJN4AAAAJ&view_op=list_works&sortby=pubdate) [profile](https://shiruipan.github.io/)	
-	1. **Yuning You (Shen Lab at Texas A&M University).** [google-scholar](https://scholar.google.com/citations?user=KEwC1N8AAAAJ&hl=en) [profile](https://yyou1996.github.io/publications/)
-	1. **Yanqiao Zhu (Institute of Automation, Chinese Academy of Sciences).** [google-scholar](https://scholar.google.com/citations?hl=en&user=NBbJT3AAAAAJ) [profile](https://sxkdz.github.io/)
-
-
 
 
 
