@@ -22,6 +22,7 @@ This repository maintains a list of materials that Huiying looks into.
 <tr><td colspan="2">&emsp;<a href="#Self-supervised-Learning">Self-supervised Learning</a></td></tr>
 <tr><td colspan="2">&emsp;<a href="#Knowledge-Distillation">Knowledge Distillation</a></td></tr>
     <tr><td colspan="2">&emsp;&emsp;<a href="#Symbolic-Commonsense">Symbolic | Commonsense</a></td></tr>
+<tr><td colspan="2">&emsp;<a href="#Knowledge-Engine">Knowledge Engine</a></td></tr>
 <tr><td colspan="2">&emsp;<a href="#Neural-Architecture-Search">Neural Architecture Search</a></td></tr>
 <tr><td colspan="2"><a href="#Notebooks">Notebooks </a></td></tr>
 <tr><td colspan="2"><a href="#Foundations-of-Deep-Learning">Foundations of Deep Learning </a></td></tr>
@@ -29,6 +30,7 @@ This repository maintains a list of materials that Huiying looks into.
 <tr><td colspan="2"><a href="#Resources">Resources </a></td></tr>
 <tr><td colspan="2"><a href="#People">People </a></td></tr>	
 </table>
+
 
 
 
@@ -128,7 +130,7 @@ This repository maintains a list of materials that Huiying looks into.
 
    *Kateryna Tymoshenko, Alessandro Moschitti.*
 
-1. **FACE-KEG: Fact Checking Explained using KnowledgE Graphs. ** WSDM 2021. [paper](https://dl.acm.org/doi/10.1145/3437963.3441828)
+1. **FACE-KEG: Fact Checking Explained using KnowledgE Graphs.** WSDM 2021. [paper](https://dl.acm.org/doi/10.1145/3437963.3441828)
 
    *Nikhita Vedula , Srinivasan Parthasarathy.*
 
@@ -197,6 +199,7 @@ This repository maintains a list of materials that Huiying looks into.
     *Di You , Nguyen Vo , Kyumin Lee , Qiang LIU.*
 
 1. **Evidence-based Trustworthiness.** ACL 2019. [paper](https://aclanthology.org/P19-1040.pdf)
+   
     *Yi Zhang, Zachary G. Ives, Dan Roth, Department of Computer and Information Science University of Pennsylvania.*
     
 1. **Towards a Benchmark for Fact Checking with Knowledge Bases**. WWW 2018. [paper](https://dl.acm.org/doi/10.1145/3184558.3191616)
@@ -254,6 +257,8 @@ This repository maintains a list of materials that Huiying looks into.
 1. **MultiFC: A Real-World Multi-Domain Dataset for Evidence-Based Fact Checking of Claims.** EMNLP/IJCNLP 2019. [paper](https://aclanthology.org/D19-1475/)
 
    *Isabelle Augenstein, Christina Lioma, Dongsheng Wang, Lucas Chaves Lima, Casper Hansen, Christian Hansen, Jakob Grue Simonsen.*
+
+2. **Epinions social network.** who-trust-whom online social network of a a general consumer review site Epinions.com. [link](https://snap.stanford.edu/data/soc-Epinions1.html)
 
 ##### [Evidence-Based](#content) 
 
@@ -366,10 +371,17 @@ Evaluation, and Open Challenges.** ACM 2020. [paper](https://kristiania.brage.un
 1. **Sequence-Level Knowledge Distillation.** IEEE 2016. [paper](https://arxiv.org/abs/1606.07947)
     *Yoon Kim, Alexander M. Rush.*
 
-[Symbolic | Commonsense](#content)
+##### [Symbolic | Commonsense](#content)
 
 1. **Symbolic Knowledge Distillation: from General Language Models to Commonsense Models.** NAACL 2022. [paper](https://aclanthology.org/2022.naacl-main.341/)
    *Peter West, Chandra Bhagavatula, Jack Hessel, Jena Hwang, Liwei Jiang, Ronan Le Bras, Ximing Lu, Sean Welleck, Yejin Choi.*
+
+
+
+#### [Knowledge Engine](#Content)
+
+1. **HAKE: Human Activity Knowledge Engine.** CVPR'18/19/20, NeurIPS'20, TPAMI'21. [github](https://github.com/DirtyHarryLYL/HAKE)
+   *Shanghai Jiao Tong University.*
 
 
 
