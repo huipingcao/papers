@@ -14,6 +14,7 @@ This repository maintains a list of materials that Huiying looks into.
     <tr><td colspan="2">&emsp;&emsp;<a href="#Incorporating-External-Knowledge">Incorporating External Knowledge</a></td></tr>
 <tr><td colspan="2">&emsp;<a href="#Information-Retrieval-and-the-Web">Information Retrieval and the Web</a></td></tr>
 	<tr><td colspan="2">&emsp;&emsp;<a href="#Fact-Checking">Fact-Checking</a></td></tr>
+    <tr><td colspan="2">&emsp;&emsp;<a href="#Fact-Verification">Fact-Verification</a></td></tr>
     <tr><td colspan="2">&emsp;&emsp;<a href="#Evidence-Based">Evidence-Based</a></td></tr>
 <tr><td colspan="2">&emsp;<a href="#Sequential-Data">Sequential Data</a></td></tr>
 	<tr><td colspan="2">&emsp;&emsp;<a href="#Data-Imputation">Data Imputation</a></td></tr>
@@ -21,14 +22,14 @@ This repository maintains a list of materials that Huiying looks into.
 	<tr><td colspan="2">&emsp;&emsp;<a href="#Anomaly-Detection">Anomaly Detection</a></td></tr>
 <tr><td colspan="2">&emsp;<a href="#Self-supervised-Learning">Self-supervised Learning</a></td></tr>
 <tr><td colspan="2">&emsp;<a href="#Knowledge-Distillation">Knowledge Distillation</a></td></tr>
-    <tr><td colspan="2">&emsp;&emsp;<a href="#Symbolic-Commonsense">Symbolic | Commonsense</a></td></tr>
-<tr><td colspan="2">&emsp;<a href="#Knowledge-Engine">Knowledge Engine</a></td></tr>
+<tr><td colspan="2">&emsp;<a href="#Knowledge-Reasoning-Symbolic">Knowledge Reasoning (Symbolic)</a></td></tr>
 <tr><td colspan="2">&emsp;<a href="#Neural-Architecture-Search">Neural Architecture Search</a></td></tr>
 <tr><td colspan="2"><a href="#Notebooks">Notebooks </a></td></tr>
 <tr><td colspan="2"><a href="#Foundations-of-Deep-Learning">Foundations of Deep Learning </a></td></tr>
 <tr><td colspan="2"><a href="#Tools">Tools </a></td></tr>
 <tr><td colspan="2"><a href="#Resources">Resources </a></td></tr>
 </table>
+
 
 
 
@@ -94,7 +95,9 @@ This repository maintains a list of materials that Huiying looks into.
 
 #### [Information Retrieval and the Web](#content) 
 
-##### ※ [Fact-Checking](#content) [(paperwithcode)](https://paperswithcode.com/task/fact-checking)
+##### ※ [Fact-Checking](#content) 
+
+##### [(paperwithcode)](https://paperswithcode.com/task/fact-checking)
 
 ###### Survey
 
@@ -106,15 +109,15 @@ This repository maintains a list of materials that Huiying looks into.
 
    *Kotonya Neema,  Toni Francesca.*
 
-###### Lab
+###### Lab/Team
 
 1. **Google Research.** [link](https://research.google/research-areas/information-retrieval-and-the-web/)
 
-   1. ※ **(Information Retrieval and the Web) Factoring Fact-Checks: Structured Information Extraction from Fact-Checking Articles**. WWW 2020. [paper](https://sci-hub.se/https://doi.org/10.1145/3366423.3380231)
+   1. ※  (Cite 20+) **(Information Retrieval and the Web) Factoring Fact-Checks: Structured Information Extraction from Fact-Checking Articles**. WWW 2020. [paper](https://sci-hub.se/https://doi.org/10.1145/3366423.3380231)
 
       *Shan Jiang , Simon Baumgartner , Abe Ittycheriah , Cong Yu.*
 
-   2. ※ **(Data Mining and Modeling) Mining an "Anti-Knowledge Base" from Wikipedia Updates with Applications to Fact Checking and Beyond.** VLDB 2019. [paper](http://www.vldb.org/pvldb/vol13/p561-karagiannis.pdf)
+   2. ※  (Cite 10+) **(Data Mining and Modeling) Mining an "Anti-Knowledge Base" from Wikipedia Updates with Applications to Fact Checking and Beyond.** VLDB 2019. [paper](http://www.vldb.org/pvldb/vol13/p561-karagiannis.pdf)
 
       *Georgios Karagiannis , Immanuel Trummer , Saehan Jo , Shubham Khandelwal , Xuezhi Wang , Cong Yu.*
 
@@ -122,7 +125,7 @@ This repository maintains a list of materials that Huiying looks into.
 
    *Knowledge Harvesting, Text+Time Search and Analytics, Knowledge Base Construction and Quality, Searching, Mining, and Learning with Informal Text*.
 
-   1. ※ **ExFaKT: A Framework for Explaining Facts over Knowledge Graphs and Text.** WSDM 2019. [paper](https://dariastepanova.github.io/files/conferences/WSDM2019/paper/WSDM2019paper.pdf) [code](https://github.com/mhmgad/ExFaKT)
+   1. ※ (Cite 40+) **ExFaKT: A Framework for Explaining Facts over Knowledge Graphs and Text.** WSDM 2019. [paper](https://dariastepanova.github.io/files/conferences/WSDM2019/paper/WSDM2019paper.pdf) [code](https://github.com/mhmgad/ExFaKT)
 
       *Mohamed Gad-Elrab, Daria Stepanova, Jacopo Urbani, Gerhard Weikum.*
 
@@ -136,7 +139,7 @@ This repository maintains a list of materials that Huiying looks into.
 
    *Sungkyu Park , Jamie Yejean Park , Hyojin Chin , Jeong-han Kang , Meeyoung Cha*.
 
-1. **Automated Fact-Checking for Assisting Human Fact-Checkers.** IJCAI 2021. [paper](https://www.ijcai.org/proceedings/2021/619)
+1. (Cite 50+) **Automated Fact-Checking for Assisting Human Fact-Checkers.** IJCAI 2021. [paper](https://www.ijcai.org/proceedings/2021/619)
 
    *Preslav Nakov, David Corney, Maram Hasanain, Firoj Alam, Tamer Elsayed, Alberto Barrón-Cedeño, Paolo Papotti, Shaden Shaar, Giovanni Da San Martino.*
 
@@ -160,11 +163,11 @@ This repository maintains a list of materials that Huiying looks into.
 
    *Kateryna Tymoshenko, Alessandro Moschitti.*
 
-1. **FACE-KEG: Fact Checking Explained using KnowledgE Graphs.** WSDM 2021. [paper](https://dl.acm.org/doi/10.1145/3437963.3441828)
+1.  (Cite 9) **FACE-KEG: Fact Checking Explained using KnowledgE Graphs.** WSDM 2021. [paper](https://dl.acm.org/doi/10.1145/3437963.3441828)
 
    *Nikhita Vedula , Srinivasan Parthasarathy.*
 
-1. **Generating Fact Checking Explanations.** ACL 2020. [paper](https://aclanthology.org/2020.acl-main.656/)
+1. (Cite 70+) **Generating Fact Checking Explanations.** ACL 2020. [paper](https://aclanthology.org/2020.acl-main.656/)
 
    *Pepa Atanasova, Jakob Grue Simonsen, Christina Lioma, Isabelle Augenstein*.
 
@@ -172,11 +175,11 @@ This repository maintains a list of materials that Huiying looks into.
 
    *Christopher Hidey, Tuhin Chakrabarty, Tariq Alhindi, Siddharth Varia, Kriste Krstovski, Mona Diab, Smaranda Muresan.*
 
-1. **LogicalFactChecker: Leveraging Logical Operations for Fact Checking with Graph Module Network.** ACL 2020. [paper](https://aclanthology.org/2020.acl-main.539/)
+1. (Cite 20+) **LogicalFactChecker: Leveraging Logical Operations for Fact Checking with Graph Module Network.** ACL 2020. [paper](https://aclanthology.org/2020.acl-main.539/)
 
    *Wanjun Zhong, Duyu Tang, Zhangyin Feng, Nan Duan, Ming Zhou, Ming Gong, Linjun Shou, Daxin Jiang, Jiahai Wang, Jian Yin*.
 
-1. **Reasoning Over Semantic-Level Graph for Fact Checking.** ACL 2020. [paper](https://aclanthology.org/2020.acl-main.549/)
+1. (Cite 80+) **Reasoning Over Semantic-Level Graph for Fact Checking.** ACL 2020. [paper](https://aclanthology.org/2020.acl-main.549/)
 
    *Wanjun Zhong, Jingjing Xu, Duyu Tang, Zenan Xu, Nan Duan, Ming Zhou, Jiahai Wang, Jian Yin.*
 
@@ -204,15 +207,15 @@ This repository maintains a list of materials that Huiying looks into.
 
     *Di You , Nguyen Vo , Kyumin Lee , Qiang LIU.*
 
-1. **Evidence-based Trustworthiness.** ACL 2019. [paper](https://aclanthology.org/P19-1040.pdf)
+1. (Cite 10+) **Evidence-based Trustworthiness.** ACL 2019. [paper](https://aclanthology.org/P19-1040.pdf)
    
     *Yi Zhang, Zachary G. Ives, Dan Roth, Department of Computer and Information Science University of Pennsylvania.*
     
-1. **ClaimsKG: A Knowledge Graph of Fact-Checked Claims.** [paper](http://users.ics.forth.gr/~fafalios/files/pubs/ISWC2019_ClaimsKG.pdf)
+1. (Cite 60+) **ClaimsKG: A Knowledge Graph of Fact-Checked Claims.** [paper](http://users.ics.forth.gr/~fafalios/files/pubs/ISWC2019_ClaimsKG.pdf)
 
    *Andon Tchechmedjiev, Pavlos Fafalios, Katarina Boland, Malo Gasquet, Matthäus Zloch, Benjamin Zapilko, Stefan Dietze & Konstantin Todorov.*
 
-1. **Fact Checking via Evidence Patterns.** IJCAI 2018. [paper](https://www.ijcai.org/proceedings/2018/522)
+1. (Cite 20+) **Fact Checking via Evidence Patterns.** IJCAI 2018. [paper](https://www.ijcai.org/proceedings/2018/522)
 
    *Valeria Fionda, Giuseppe Pirrò.*
 
@@ -248,7 +251,7 @@ This repository maintains a list of materials that Huiying looks into.
 
 ###### System
 
-1. **Quin+: Improving Evidence Retrieval for Automated Explainable Fact-Checking.** NAACL 2021. [paper](https://aclanthology.org/2021.naacl-demos.10/)
+1. (Cite 8) **Quin+: Improving Evidence Retrieval for Automated Explainable Fact-Checking.** NAACL 2021. [paper](https://aclanthology.org/2021.naacl-demos.10/)
 
    *Chris Samarinas, Wynne Hsu, Mong Li Lee*
 
@@ -283,6 +286,36 @@ This repository maintains a list of materials that Huiying looks into.
    *Isabelle Augenstein, Christina Lioma, Dongsheng Wang, Lucas Chaves Lima, Casper Hansen, Christian Hansen, Jakob Grue Simonsen.*
 
 2. **Epinions social network.** who-trust-whom online social network of a a general consumer review site Epinions.com. [link](https://snap.stanford.edu/data/soc-Epinions1.html)
+
+##### ※ [Fact Verification](#content)
+
+1. **EvidenceNet: Evidence Fusion Network for Fact Verification.** WWW 2022. [paper](https://dl.acm.org/doi/abs/10.1145/3485447.3512135)
+
+   *Zhendong Chen , Siu Cheung Hui , Fuzhen Zhuang , Lejian Liao , Fei Li , Meihuizi Jia , Jiaqi Li.*
+
+2. ※ **Re2G: Retrieve, Rerank, Generate.** NAACL 2022. [paper](https://aclanthology.org/2022.naacl-main.194/) [code](https://paperswithcode.com/paper/re2g-retrieve-rerank-generate-2)
+
+   *Michael Glass, Gaetano Rossiello, Md Faisal Mahbub Chowdhury, Ankita Rajaram Naik, Pengshan Cai, Alfio Gliozzo.*
+
+3. ※ (Cite 30+) **Get Your Vitamin C! Robust Fact Verification with Contrastive Evidence.** NAACL 2021. [paper](https://aclanthology.org/2021.naacl-main.52/) [code](https://paperswithcode.com/paper/get-your-vitamin-c-robust-fact-verification)
+
+   *Tal Schuster, Adam Fisch, Regina Barzilay.*
+
+4. ※ (Cite 100+) **Fine-grained Fact Verification with Kernel Graph Attention Network.** ACL 2020. [paper](https://aclanthology.org/2020.acl-main.655/) [code](https://paperswithcode.com/paper/kernel-graph-attention-network-for-fact)
+
+5. ※ (Cite 200+) **Combining Fact Extraction and Verification with Neural Semantic Matching Networks.** AAAI 2019. [paper](https://arxiv.org/abs/1811.07039) [code](https://github.com/easonnie/combine-FEVER-NSMN?utm_source=catalyzex.com)
+
+   *Yixin Nie, Haonan Chen, Mohit Bansal.*
+
+6. ※ (Cite 100+) **GEAR: Graph-based Evidence Aggregating and Reasoning for Fact Verification.** ACL 2019. [paper](https://arxiv.org/abs/1908.01843) [code](https://github.com/thunlp/GEAR)
+
+   *Jie Zhou, Xu Han, Cheng Yang, Zhiyuan Liu, Lifeng Wang, Changcheng Li, Maosong Sun.*
+
+###### Dataset
+
+1.  **TabFact: A Large-scale Dataset for Table-based Fact Verification.** ICLR 2020. [link](https://github.com/wenhuchen/Table-Fact-Checking)
+
+
 
 ##### [Evidence-Based](#content) 
 
@@ -395,17 +428,23 @@ Evaluation, and Open Challenges.** ACM 2020. [paper](https://kristiania.brage.un
 1. **Sequence-Level Knowledge Distillation.** IEEE 2016. [paper](https://arxiv.org/abs/1606.07947)
     *Yoon Kim, Alexander M. Rush.*
 
-##### [Symbolic | Commonsense](#content)
+
+
+#### ※ [Knowledge Reasoning (Symbolic)](#Content)
 
 1. **Symbolic Knowledge Distillation: from General Language Models to Commonsense Models.** NAACL 2022. [paper](https://aclanthology.org/2022.naacl-main.341/)
    *Peter West, Chandra Bhagavatula, Jack Hessel, Jena Hwang, Liwei Jiang, Ronan Le Bras, Ximing Lu, Sean Welleck, Yejin Choi.*
 
-
-
-#### ※ [Knowledge Engine](#Content)
-
 1. **HAKE: Human Activity Knowledge Engine.** CVPR'18/19/20, NeurIPS'20, TPAMI'21. [github](https://github.com/DirtyHarryLYL/HAKE)
    *Shanghai Jiao Tong University.*
+   
+3. (Cite 30+) **Scalable Neural Methods for Reasoning With a Symbolic Knowledge Base.** ICLR 2020. [paper](https://arxiv.org/abs/2002.06115) 
+
+   *William W. Cohen, Haitian Sun, R. Alex Hofer, Matthew Siegler.*
+
+4. (Cite 900+) **Learning to Extract Symbolic Knowledge from the World Wide Web.** AAAI 1998. [paper](https://aaai.org/Papers/AAAI/1998/AAAI98-072.pdf)
+
+   *Mark Craven , Dan DiPasquo , Dayne Freitag , Andrew McCallum , Tom Mitchell , Kamal Nigam , Seán Slattery.*
 
 
 
