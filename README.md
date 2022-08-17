@@ -28,3 +28,31 @@ This repository maintains a list of papers that our lab looks into.
    *Russell Stewart, Stefano Ermon*
    
 ## Steps to set up the Kaiju environment
+
+### Trung's set up on Kaiju
+1. Install Anaconda
+If you haven't installed Anaconda in your home directory (~/<your_cs_username>) yet, then do this
+> rm -f ~/anaconda3
+
+> # Create anaconda folder in backup space 
+> mkdir /home/student_no_backup/thoang/anaconda3
+
+> # Link to temporary storage
+> ln -s /home/student_no_backup/thoang ~/anaconda3
+These commands create a symlink between your anaconda in your home directory to anaconda in your work directory because your home directory's capacity is not big enough to store the anaconda.
+In case you did install Anaconeda in your home directory (~/<your_cs_username>), do this
+> # Remove the directory from the temporary storage area
+> rm -rf /home/student_no_backup/thoang/anaconda3
+
+> # Move your current anaconda3 to temporary storage
+> mv ~/anaconda3 /home/student_no_backup/thoang/
+
+> # Link to temporary storage
+> ln -s /home/student_no_backup/thoang/anaconda3 ~/anaconda3
+
+After that you can install Anaconda by following these steps: https://kengchichang.com/post/conda-linux/
+
+2. After installing Anaconda 
+You can put your working projects inside this directory: /home/student_no_backup/<your_cs_username> and create a new conda environment for each project. Enviroments can be used accross servers (Kaiju, Shamir,...)
+
+
