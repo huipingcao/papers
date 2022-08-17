@@ -27,4 +27,4 @@ This repository maintains a list of papers that our lab looks into.
 
    *Russell Stewart, Stefano Ermon*
    
-#Steps to set up the Kaiju environment
+## Steps to set up the Kaiju environment
