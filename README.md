@@ -26,3 +26,5 @@ This repository maintains a list of papers that our lab looks into.
 1. **Label-Free Supervision of Neural Networks with Physics and Domain Knowledge.** AAAI, 2017. [paper](https://www.aaai.org/Conferences/AAAI/2017/PreliminaryPapers/12-Stewart-14967.pdf)
 
    *Russell Stewart, Stefano Ermon*
+   
+#Steps to set up the Kaiju environment
