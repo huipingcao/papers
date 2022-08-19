@@ -59,7 +59,7 @@ Have you ever faced the situation where you perform a long-running task on a rem
 
 Starting Named Session
 
-> screen -S <session-name>
+> screen -S "session-name"
 
 It’s always a good idea to choose a descriptive session name.
   
@@ -71,7 +71,7 @@ The program running in the screen session will continue to run after you detach 
 
 Reattach to a Linux Screen
   
-> screen -r <session-name>
+> screen -r "session-name"
   
 To find the session ID list the current running screen sessions with
   
