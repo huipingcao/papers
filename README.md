@@ -54,3 +54,25 @@ After that you can install Anaconda by following these steps: https://kengchicha
 2. After installing Anaconda 
 You can put your working projects inside this directory: /home/student_no_backup/<your_cs_username> and create a new conda environment for each project. Enviroments can be used accross servers (Kaiju, Shamir,...)
 
+3. Using Screen
+Have you ever faced the situation where you perform a long-running task on a remote machine, and suddenly your connection drops, the SSH session is terminated, and your work is lost. Well, it has happened to all of us at some point, hasn’t it? Luckily, there is a utility called screen that allows us to resume the sessions. Screen is preinstalled on most linux machine.
+
+Starting Named Session
+
+> screen -S <session-name>
+
+It’s always a good idea to choose a descriptive session name.
+  
+Detach from Linux Screen Session
+  
+> Ctrl+a d
+  
+The program running in the screen session will continue to run after you detach from the session.
+
+Reattach to a Linux Screen
+  
+> screen -r <session-name>
+  
+To find the session ID list the current running screen sessions with
+  
+> screen -ls
