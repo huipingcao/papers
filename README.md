@@ -10,7 +10,7 @@ This repository maintains a list of papers that our lab looks into.
 <tr><td colspan="2">4. Erick's work are <a href="https://github.com/ecdraayer/Paper_List">here</a></td></tr>
 <tr><td colspan="2">5. Selective papers marked by Huiping <a href="cao_list.md">here</a></td></tr>
 <tr><td colspan="2"><a href="#Physics-guided-NN-models">6. Physics guided NN models</a></td></tr>
-
+<tr><td colspan="2">7. Steps to set up environment for Federated Learning <a href="https://github.com/JiefeiLiu/Federated_learning_env_set_up/blob/main/README.md">here</a></td></tr>
 </table>
 
 
