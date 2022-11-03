@@ -21,8 +21,11 @@
 1. Yunbo Wang, Zhifeng Gao, Mingsheng Long, Jianmin Wang, Philip S Yu: <b>PredRNN++: Towards A Resolution of the Deep-in-Time Dilemma in Spatiotemporal Predictive Learning</b> Proceedings of Machine Learning Research (PMLR) 2008. (https://proceedings.mlr.press/v80/wang18b.html)
 
 ## Incorporating knowledge
-1. Russell Stewart , Stefano Ermon: <b>Label-Free Supervision of Neural Networks with Physics and Domain Knowledge</b>. AAAI, 2017. [paper](https://www.aaai.org/Conferences/AAAI/2017/PreliminaryPapers/12-Stewart-14967.pdf) </br> 
+1. Russell Stewart, Stefano Ermon: <b>Label-Free Supervision of Neural Networks with Physics and Domain Knowledge</b>. AAAI, 2017. [paper](https://www.aaai.org/Conferences/AAAI/2017/PreliminaryPapers/12-Stewart-14967.pdf) </br> 
 This paper works on training a network (f) mapping from inputs to outputs without requiring direct examples of those outputs. It designs a formularization of loss function (g) and regularization term (R). 
+2. Zhun Yang, Adam Ishay, Joohyung Lee: NeurASP: Embracing Neural Networks into Answer Set Programming. IJCAI 2020. Pages 1755-1762. https://doi.org/10.24963/ijcai.2020/243.<br/> This is a very good paper on bring NN and ASP together. The use of ASP dramatically changes how to design the loss function. 
+4. Sebastian Ruder and Barbara Plank: Strong Baselines for Neural Semi-supervised Learning under Domain Shift. https://arxiv.org/pdf/1804.09530.pdf. <br/>
+Good review about semi-supervised learning methods includes tri-training etc.
 
 ## Power system - security, alarm analysis
 1. Yan Xu : A review of cyber security risks of power systems: from static to dynamic false data attacks. Protection and Control of Modern Power Systems volume 5, Article number: 19 (2020). 
