@@ -40,6 +40,18 @@ This repository maintains a list of materials that Jiefei looks into.
 </table>
 
 ## [Paper](#content)
+### [Federated Learning](#content)
+> Federated Learning Environment Setup [Link](https://github.com/JiefeiLiu/Federated_learning_env_set_up)
+
+> Federated Learning Good paper resource [Link](https://github.com/innovation-cat/Awesome-Federated-Machine-Learning)
+
+1. **Federated optimization: Distributed optimization beyond the datacenter.** arXiv, 2015. [paper](https://arxiv.org/pdf/1511.03575.pdf)
+
+1. **Communication-efficient learning of deep networks from decentralized data.** AISTATS, 2017. [paper](http://proceedings.mlr.press/v54/mcmahan17a/mcmahan17a.pdf)
+
+1. **Adressing Class Imbalance in Federated Learning** AAAI, 2021. [paper](https://arxiv.org/pdf/2008.06217.pdf)
+
+
 ### [Change Point Detection](#content)
 
 1. **Bayesian Online Prediction of Change Points.** UAI, 2020. [paper](https://arxiv.org/abs/1902.04524)
