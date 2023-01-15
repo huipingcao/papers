@@ -31,6 +31,10 @@ Good review about semi-supervised learning methods includes tri-training etc.
 1. 	Wang-Zhou Dai, Qiu-Ling Xu, Yang Yu, Zhi-Hua Zhou:
 Bridging Machine Learning and Logical Reasoning by Abductive Learning. NeurIPS 2019: 2811-2822
 
+## Semi-supervised learning
+1. Semi-Supervised Learning Literature Survey. This is a TR in 2008. Link: https://pages.cs.wisc.edu/~jerryzhu/pub/ssl_survey.pdf
+2. An overview of proxy-label approaches for semi-supervised learning. A blog by SEBASTIAN RUDER, 26 APR 2018. Link: https://ruder.io/semi-supervised/index.html. This blog talks about self-training, tri-training those classifical methods. 
+
 ## Power system - security, alarm analysis
 1. Yan Xu : A review of cyber security risks of power systems: from static to dynamic false data attacks. Protection and Control of Modern Power Systems volume 5, Article number: 19 (2020). 
 
