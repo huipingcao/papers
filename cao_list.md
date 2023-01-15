@@ -27,6 +27,10 @@ This paper works on training a network (f) mapping from inputs to outputs withou
 4. Sebastian Ruder and Barbara Plank: Strong Baselines for Neural Semi-supervised Learning under Domain Shift. https://arxiv.org/pdf/1804.09530.pdf. <br/>
 Good review about semi-supervised learning methods includes tri-training etc.
 
+## Abductive learning
+1. 	Wang-Zhou Dai, Qiu-Ling Xu, Yang Yu, Zhi-Hua Zhou:
+Bridging Machine Learning and Logical Reasoning by Abductive Learning. NeurIPS 2019: 2811-2822
+
 ## Power system - security, alarm analysis
 1. Yan Xu : A review of cyber security risks of power systems: from static to dynamic false data attacks. Protection and Control of Modern Power Systems volume 5, Article number: 19 (2020). 
 
