@@ -28,8 +28,12 @@ This paper works on training a network (f) mapping from inputs to outputs withou
 Good review about semi-supervised learning methods includes tri-training etc.
 
 ## Abductive learning
-1. 	Wang-Zhou Dai, Qiu-Ling Xu, Yang Yu, Zhi-Hua Zhou:
+1. Zhi-Hua Zhou: Abductive learning: towards bridging machine learning and logical reasoning. Sci. China Inf. Sci. 62(7): 76101:1-76101:3 (2019)
+This is the FIRST paper about abductive learning.
+
+2. 	Wang-Zhou Dai, Qiu-Ling Xu, Yang Yu, Zhi-Hua Zhou:
 Bridging Machine Learning and Logical Reasoning by Abductive Learning. NeurIPS 2019: 2811-2822
+The knowledge based are represented in first-order logic clauses. 
 
 ## Semi-supervised learning
 1. Semi-Supervised Learning Literature Survey. This is a TR in 2008. Link: https://pages.cs.wisc.edu/~jerryzhu/pub/ssl_survey.pdf
