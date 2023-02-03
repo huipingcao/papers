@@ -3,6 +3,7 @@
 - https://www.connectedpapers.com/: This tool is really helpful for searching for related papers. 
 - AI conference dedlines (machine learning, data mining) https://aideadlin.es/?sub=ML,DM
 - Computing resource: https://www.xsede.org/
+- Deep learning textbook: Dive into Deep Learning https://d2l.ai/
 
 ## ASP
 - Video by Prof. Schaub at Potsdam https://www.youtube.com/c/potassco-live
