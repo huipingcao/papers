@@ -65,3 +65,10 @@ Generative Adversarial Networks for Spatio-temporal Data: A Survey. CoRR abs/200
 - Energy-Based Models for Self-Supervised Learning - Yann LeCun (Youtube: https://www.youtube.com/watch?v=BqgnnrojVBI)
 - http://courselookup.nmsu.edu
 
+## Interpretable Machine Learning (IML)/Explainable AI (EAI)
+- Christoph Molnar, Giuseppe Casalicchio, Bernd Bischl: Interpretable Machine Learning - A Brief History, State-of-the-Art and Challenges. PKDD/ECML Workshops 2020: 417-431. link: https://www.researchgate.net/publication/348959551_Interpretable_Machine_Learning_-_A_Brief_History_State-of-the-Art_and_Challenges
+- Shuai Peng, Di Fu, Yong Cao, Yijun Liang, Gu Xu, Liangcai Gao, Zhi Tang:
+Compute Like Humans: Interpretable Step-by-step Symbolic Computation with Deep Neural Network. KDD 2022: 1348-1357. link: https://dl.acm.org/doi/10.1145/3534678.3539276
+- Md. Mahmudur Rahman, Sanjay Purushotham: Fair and Interpretable Models for Survival Analysis. KDD 2022: 1452-1462. link: https://dl.acm.org/doi/10.1145/3534678.3539259
+
+## chatGPT related
