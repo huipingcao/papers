@@ -1,0 +1,35 @@
+
+
+#### Multimodal
+
+##### Paper
+
+###### Shapelet
+
+1. **Time2Graph: Revisiting Time Series Modeling with Dynamic Shapelets.** AAAI 2020. [paper](http://yangy.org/works/t2g/time2graph_aaai20.pdf) [code](https://petecheng.github.io/Time2Graph/)
+   *Ziqiang Cheng, Yang Yang, Wei Wang, Wenjie Hu, Yueting Zhuang, Guojie Song.*
+   
+1. **Points2Shapelets: A Salience-Guided Shapelets Selection Approach to Time Series Classification.** IEEE 2022. [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9892079&tag=1)
+   *Guanxi Feng; Chao Ma; Linjiang Zhou; Libing Wu; Jingsheng Zhang; Xiaochuan Shi.*
+   
+1. **Adaptive Shapelets Preservation for Time Series Augmentation.** IEEE 2022. [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9892768)
+   *Pin Liu; Xiaohui Guo; Pengpeng Chen; Bin Shi; Tianyu Wo; Xudong Liu.*
+   
+1. **Learning Time-series Shapelets Enhancing Discriminability.** SIAM 2022. [paper](https://epubs.siam.org/doi/10.1137/1.9781611977172.22)
+   *Akihiro Yamaguchi, Ken Ueno, and Hisashi Kashima.*   
+ 
+1. **Shapelets-based Data Augmentation for Time Series Classification.** IEEE 2021. [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9680100)
+   *Peiyu Li; Soukaïna Filali Boubrahimi; Shah Muhammad Hamdi.*    
+   
+1. **ShapeNet: A Shapelet-Neural Network Approach for Multivariate Time Series Classification.** AAAI 2021. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/17018)
+   *Guozhong Li, Byron Choi, Jianliang Xu, Sourav S Bhowmick, Kwok-Pan Chun, Grace Lai-Hung Wong.*    
+ 
+   
+##### Team/People
+
+1. **Microsoft Research - Asia (Data, Knowledge, and Intelligence).** [link](https://www.microsoft.com/en-us/research/group/data-knowledge-intelligence/publications/)
+
+   
+ ##### Tools
+
+1. **STREAMER - a Powerful and Open-Source Framework for Continuous Learning in Data Streams.** [link](https://streamer-framework.github.io/index.html)
