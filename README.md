@@ -15,11 +15,13 @@ This repository maintains a list of papers that our lab looks into.
 
 
 ## [Physics guided NN models](#content)
-1. **Physics-Guided Machine Learning for Scientific Discovery: An Application in Simulating Lake Temperature Profiles.** Machine Learning (cs.LG), 2020. [paper](https://arxiv.org/abs/2001.11086)
+4. **Physics-InformedNeuralNetworks:ADeepLearning FrameworkforSolvingForwardandInverseProblems InvolvingNonlinearPartialDifferentialEquations**. Journal of Computational Physics, Volume 378, 1 February 2019, Pages 686-707 (https://www.sciencedirect.com/science/article/abs/pii/S0021999118307125)
+
+3. **Physics-Guided Machine Learning for Scientific Discovery: An Application in Simulating Lake Temperature Profiles.** Machine Learning (cs.LG), 2020. [paper](https://arxiv.org/abs/2001.11086)
 
    *Xiaowei Jia, Jared Willard, Anuj Karpatne, Jordan S Read, Jacob A Zwart, Michael Steinbach, Vipin Kumar*
 
-1. **Physics Guided RNNs for Modeling Dynamical Systems: A Case Study in Simulating Lake Temperature Profiles.** Computational Physics (physics.comp-ph), 2019. [paper](https://arxiv.org/abs/1810.13075)
+2. **Physics Guided RNNs for Modeling Dynamical Systems: A Case Study in Simulating Lake Temperature Profiles.** Computational Physics (physics.comp-ph), 2019. [paper](https://arxiv.org/abs/1810.13075)
 
    *Xiaowei Jia, Jared Willard, Anuj Karpatne, Jordan Read, Jacob Zwart, Michael Steinbach, Vipin Kumar*
    
