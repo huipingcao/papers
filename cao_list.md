@@ -76,3 +76,5 @@ Compute Like Humans: Interpretable Step-by-step Symbolic Computation with Deep N
 ## Time Series
 - Shaghayegh Gharghabi, Yifei Ding, Chin-Chia Michael Yeh, Kaveh Kamgar, Liudmila Ulanova, Eamonn J. Keogh:
 Matrix Profile VIII: Domain Agnostic Online Semantic Segmentation at Superhuman Performance Levels. ICDM 2017: 117-126. link: https://www.cs.ucr.edu/~eamonn/Segmentation_ICDM.pdf
+
+- Effectively Modeling Time Series with Simple Discrete State Spaces (https://arxiv.org/pdf/2303.09489.pdf)
