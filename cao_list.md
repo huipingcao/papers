@@ -72,3 +72,7 @@ Compute Like Humans: Interpretable Step-by-step Symbolic Computation with Deep N
 - Md. Mahmudur Rahman, Sanjay Purushotham: Fair and Interpretable Models for Survival Analysis. KDD 2022: 1452-1462. link: https://dl.acm.org/doi/10.1145/3534678.3539259
 
 ## chatGPT related
+
+## Time Series
+- Shaghayegh Gharghabi, Yifei Ding, Chin-Chia Michael Yeh, Kaveh Kamgar, Liudmila Ulanova, Eamonn J. Keogh:
+Matrix Profile VIII: Domain Agnostic Online Semantic Segmentation at Superhuman Performance Levels. ICDM 2017: 117-126. link: https://www.cs.ucr.edu/~eamonn/Segmentation_ICDM.pdf
