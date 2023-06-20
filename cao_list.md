@@ -71,6 +71,9 @@ Generative Adversarial Networks for Spatio-temporal Data: A Survey. CoRR abs/200
 Compute Like Humans: Interpretable Step-by-step Symbolic Computation with Deep Neural Network. KDD 2022: 1348-1357. link: https://dl.acm.org/doi/10.1145/3534678.3539276
 - Md. Mahmudur Rahman, Sanjay Purushotham: Fair and Interpretable Models for Survival Analysis. KDD 2022: 1452-1462. link: https://dl.acm.org/doi/10.1145/3534678.3539259
 
+## Trustworthy Machine learning
+- Resources for Trustworthy Graph Neural Networks (https://github.com/Radical3-HeZhang/Awesome-Trustworthy-GNNs)
+  
 ## chatGPT related
 
 ## Time Series
