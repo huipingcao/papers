@@ -70,6 +70,9 @@ Generative Adversarial Networks for Spatio-temporal Data: A Survey. CoRR abs/200
 - Shuai Peng, Di Fu, Yong Cao, Yijun Liang, Gu Xu, Liangcai Gao, Zhi Tang:
 Compute Like Humans: Interpretable Step-by-step Symbolic Computation with Deep Neural Network. KDD 2022: 1348-1357. link: https://dl.acm.org/doi/10.1145/3534678.3539276
 - Md. Mahmudur Rahman, Sanjay Purushotham: Fair and Interpretable Models for Survival Analysis. KDD 2022: 1452-1462. link: https://dl.acm.org/doi/10.1145/3534678.3539259
+- Xinli Yu, Zheng Chen, Yuan Ling, Shujing Dong, Zongyi Liu, Yanbin Lu:
+Temporal Data Meets LLM - Explainable Financial Time Series Forecasting. CoRR abs/2306.11025 (2023)
+- tSNE (https://github.com/shivanichander/tSNE/blob/master/Code/tSNE%20Code.ipynb)
 
 ## Trustworthy Machine learning
 - Resources for Trustworthy Graph Neural Networks (https://github.com/Radical3-HeZhang/Awesome-Trustworthy-GNNs)
@@ -81,3 +84,16 @@ Compute Like Humans: Interpretable Step-by-step Symbolic Computation with Deep N
 Matrix Profile VIII: Domain Agnostic Online Semantic Segmentation at Superhuman Performance Levels. ICDM 2017: 117-126. link: https://www.cs.ucr.edu/~eamonn/Segmentation_ICDM.pdf
 
 - Effectively Modeling Time Series with Simple Discrete State Spaces (https://arxiv.org/pdf/2303.09489.pdf)
+
+## Anomaly detection
+-	Time series anomaly detection (https://paperswithcode.com/task/time-series-anomaly-detection/latest)
+-	- Jiehui Xu, Haixu Wu, Jianmin Wang, Mingsheng Long: Anomaly Transformer: Time Series Anomaly Detection with Association Discrepancy. ICLR 2022. (https://openreview.net/pdf?id=LzQQ89U1qm_)
+-	Haixu Wu, Tengge Hu, Yong Liu, Hang Zhou, Jianmin Wang, Mingsheng Long: TimesNet: Temporal 2D-Variation Modeling for General Time Series Analysis. ICLR 2023 (https://arxiv.org/pdf/2210.02186.pdf)
+-	Lukas Ruff, Robert A. Vandermeulen, Nico Görnitz, Alexander Binder, Emmanuel Müller, Klaus-Robert Müller, Marius Kloft:
+Deep Semi-Supervised Anomaly Detection. ICLR 2020 (https://openreview.net/pdf?id=HkgH0TEYwH)
+
+## Self/Semi- supervised learning
+- Shikun Liu, Andrew J. Davison, Edward Johns: Self-Supervised Generalisation with Meta Auxiliary Learning. NeurIPS 2019: 1677-1687 (https://arxiv.org/pdf/1901.08933.pdf)
+
+ 
+
