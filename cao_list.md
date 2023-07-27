@@ -96,5 +96,7 @@ Deep Semi-Supervised Anomaly Detection. ICLR 2020 (https://openreview.net/pdf?id
 ## Self/Semi- supervised learning
 - Shikun Liu, Andrew J. Davison, Edward Johns: Self-Supervised Generalisation with Meta Auxiliary Learning. NeurIPS 2019: 1677-1687 (https://arxiv.org/pdf/1901.08933.pdf)
 
+## Practical posts
+- Jason Brownlee: SMOTE for Imbalanced Classification with Python by . https://machinelearningmastery.com/smote-oversampling-for-imbalanced-classification/
  
 
