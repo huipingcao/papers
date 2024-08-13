@@ -45,6 +45,9 @@ The knowledge based are represented in first-order logic clauses.
 
 ## Graph Neural Networks (GNNs)
 1. Graph neutral network papers:  https://github.com/thunlp/GNNPapers
+2. This is a very classical GNN mode, called Graph neural network transformer. Here is the paper link. https://www.ijcai.org/proceedings/2021/0214.pdf **Masked Label Prediction: Unified Message Passing Model for Semi-Supervised Classification**, published in IJCAI 2021.
+3. Graph Neural Network library: https://pytorch-geometric.readthedocs.io/en/latest/
+   We can use this library to learn how to practically implement a GNN. 
 
 ## Generative Adversarial Networks (GANs), Diffusion models, and Generative AI
 - Nan Gao, Hao Xue, Wei Shao, Sichen Zhao, Kyle Kai Qin, Arian Prabowo, Mohammad Saiedur Rahaman, Flora D. Salim:
