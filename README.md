@@ -15,6 +15,7 @@ This repository maintains a list of papers that our lab looks into.
 
 
 ## [Physics guided NN models](#content)
+5. **Gibson J, Hire A, Hennig RG. Data-augmentation for graph neural network learning of the relaxed energies of unrelaxed structures.** npj Computational Materials. 2022 Sep 30;8(1):211.
 4. **Physics-InformedNeuralNetworks:ADeepLearning FrameworkforSolvingForwardandInverseProblems InvolvingNonlinearPartialDifferentialEquations**. Journal of Computational Physics, Volume 378, 1 February 2019, Pages 686-707 (https://www.sciencedirect.com/science/article/abs/pii/S0021999118307125)
 
 3. **Physics-Guided Machine Learning for Scientific Discovery: An Application in Simulating Lake Temperature Profiles.** Machine Learning (cs.LG), 2020. [paper](https://arxiv.org/abs/2001.11086)
