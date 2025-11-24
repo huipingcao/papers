@@ -1,5 +1,7 @@
 ## Knowledge Graph reasoning
 - A comprehensive GitHub repo related to Knowledge Graph reasoning (https://github.com/trieu/Knowledge-Graph-Embedding)
+- Iteratively Learning Embeddings and Rules for Knowledge Graph Reasoning. (IterE, WWW 2019) code: https://github.com/wencolani/IterE
+- Rule-Guided Compositional Representation Learning on Knowledge Graphs (RPJE, AAAI 2021) code: https://github.com/ngl567/RPJE
   
 ## Tools & links & computing resources
 - https://www.connectedpapers.com/: This tool is really helpful for searching for related papers. 
