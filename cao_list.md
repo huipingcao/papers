@@ -1,4 +1,6 @@
-
+## Knowledge Graph reasoning
+- A comprehensive GitHub repo related to Knowledge Graph reasoning (https://github.com/trieu/Knowledge-Graph-Embedding)
+  
 ## Tools & links & computing resources
 - https://www.connectedpapers.com/: This tool is really helpful for searching for related papers. 
 - AI conference dedlines (machine learning, data mining) https://aideadlin.es/?sub=ML,DM
